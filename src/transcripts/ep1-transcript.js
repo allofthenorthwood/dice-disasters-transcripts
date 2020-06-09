@@ -9,7 +9,7 @@ Oliver: So, to the four of you, I’m going to say that you’re probably lookin
 Alice: You see a tall and painfully thin woman with tan skin and very long silky black hair. She has deep bags under her eyes and in general her eyes seem to be darting around as if in a bit of a panic. She’s probably sat up by now and is holding her hands around her chest, shaking slightly.
 Oliver: And this person is wearing a grey jumpsuit, like grey coveralls, and a pair of generic white sneakers. And as your character looks down, you see you’re also wearing that same outfit. Why don’t we have Max go next?
 {3:06}
-Robot: So you see this fairly tall, sort-of good-looking guy who’s probably in his early twenties, pretty uh, clean shaven, and looks like he lifted quite a few heavy things in his life.
+Robot: So you see this fairly tall, sort-of good-looking guy who’s probably in his early twenties, pretty clean shaven, and looks like he lifted quite a few heavy things in his life.
 Oliver: Good, good! Zan?
 {3:25}
 Talia: You see a pretty short young woman, about mid-to-late twenties, with short black hair that’s shaven on the sides and back. She’s pretty thin and scrawny-looking, looks like she might get mistaken for a middle schooler sometimes and be really grumpy about it.
