@@ -38,9 +38,13 @@ class App extends Component {
 const styles = StyleSheet.create({
   container: {
     maxWidth: 900,
+    boxSizing: 'border-box',
     width: "100%",
     margin: "auto",
     padding: 50,
+    '@media (max-width: 600px)': {
+      padding: 10,
+    }
   },
   darkMode: {
     // dark mode:

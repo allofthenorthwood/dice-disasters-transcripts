@@ -1,5 +1,9 @@
 const transcript = `Oliver: You wake up on a cold, white floor. You’re face-down, with a cheek pressed to the large, smooth tiles, your limbs flung out haphazardly as though you were unceremoniously dumped here. A soreness creeps over your body as the grogginess of sleep fades, the kind of soreness that comes from a long, deep sleep. Longer than you intended. This is not where you went to bed last night. As far as you can remember, on December 1st, 2019, you crawled into your own bed, same as always. Things were normal. And now, they most certainly are not. What do you do?
 === INTRO THEME: “Elysia” by People Need Goals ===
+
+
+
+
 {1:15}
 Talia: Could we—could I look around?
 Oliver: Yes, you can definitely look around! So as you look around, you see more of the same large, white tiles. They cover the floor of this square room, as well as the walls, and as you crane your neck upward you see that the ceiling is the same. Each tile gives off a soft, white glow, and together they light up the room. There are no windows in this room. On one wall is a square, metal door, ringed in blue light. It looks like an airlock from a generic sci-fi movie. There’s no handle, and a diagonal line down the center where you assume it will part to let you through.

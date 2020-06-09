@@ -49,11 +49,15 @@ class Transcript extends Component {
     return (
       <div className={css(styles.transcript)}>
 
+      <div className={css(styles.title)}>
+        Episode 1: A Cold, White Floor
+      </div>
         {transcript.split('\n').map((line, count) => {
           let lineOutput = null;
           let characterSpeaking = false;
-
-          if (line[0] === "=") {
+          if  (line.length <= 1) {
+            return null;
+          } else if (line[0] === "=") {
             lineOutput = <div className={css(styles.midroll)} key={count}>
               {line.replace(/=/g, '')}
             </div>;
@@ -138,25 +142,42 @@ class Transcripts extends Component {
   }
 }
 
+const borderColour = 'rgba(120, 120, 120, 0.2)';
+
 const styles = StyleSheet.create({
+  title: {
+    fontSize: 32,
+    borderBottom: `5px solid ${borderColour}`,
+    marginTop: 15,
+    marginBottom: 15,
+    paddingBottom: 5,
+  },
   line: {
     paddingTop: 7,
     paddingBottom: 7,
   },
   lineInterior: {
     display: 'flex',
+    '@media (max-width: 600px)': {
+      display: 'block',
+    }
   },
   speakerBox: {
     minWidth: 60,
     marginRight: 10,
     textAlign: "right",
+    '@media (max-width: 600px)': {
+      textAlign: 'left',
+    }
   },
   speakerBoxCharacter: {
     minWidth: 120,
+    '@media (max-width: 600px)': {
+      minWidth: 'none',
+    }
   },
   speaker: {
     fontWeight: 'bold',
-    position: 'relative',
   },
   soundEffect: {
     fontStyle: "italic",
@@ -178,7 +199,11 @@ const styles = StyleSheet.create({
   },
   characterSpeakerLine: {
     marginLeft: 70,
-    borderLeft: '5px solid rgba(120, 120, 120, 0.2)',
+    borderLeft: `5px solid ${borderColour}`,
+    '@media (max-width: 600px)': {
+      marginLeft: 0,
+      paddingLeft: 10,
+    }
   },
   characterSpeaker: {
     display: "inline-block",
