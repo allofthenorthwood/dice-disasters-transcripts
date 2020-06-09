@@ -8,6 +8,7 @@ export const colours = {
   violet: "#8b66cd",
   magenta: "#cb4bc1",
 
+  white: "#f8f8f3",
   grey: "#75715e",
   black: "#272822",
 
@@ -38,4 +39,5 @@ export const colours = {
   greyLight: "#b9b7ae",
   greyLighter: "#dcdbd6",
   greyDark: "#3e3d33",
+  whiteDark: "#c6c6c1",
 };

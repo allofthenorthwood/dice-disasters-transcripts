@@ -14,21 +14,30 @@ class App extends Component {
     const darkMode = this.state.darkMode;
     return (
       <div className={css(styles.container, darkMode && styles.darkMode)}>
+      <div className={css(styles.innerContainer)}>
         <div className={css(styles.transcriptPicker)}>
-          {episodes.map((episode) => {
+          {episodes.map((episodeNumber) => {
             return <button
-              onClick={() => this.setState({selectedEpisode: episode})}
-              key={episode}
-            >Episode {episode}</button>
+              className={css(styles.button, selectedEpisode === episodeNumber && styles.buttonActive)}
+              onClick={() => this.setState({selectedEpisode: episodeNumber})}
+              key={episodeNumber}
+            >Episode {episodeNumber}</button>
           })}
 
         </div>
         <div className={css(styles.colourModePicker)}>
-          <button onClick={() =>this.setState({darkMode: false})}>Light Mode</button>
-          <button onClick={() => this.setState({darkMode: true})}>Dark Mode</button>
+          <button
+            className={css(styles.button, !darkMode && styles.buttonActive)}
+            onClick={() =>this.setState({darkMode: false})}
+          >Light Mode</button>
+          <button
+            className={css(styles.button, darkMode && styles.buttonActive)}
+            onClick={() => this.setState({darkMode: true})}
+          >Dark Mode</button>
         </div>
         <div className={css(styles.transcript)}>
-          <Transcripts episode={selectedEpisode}/>
+          <Transcripts episode={selectedEpisode} darkMode={darkMode}/>
+        </div>
         </div>
       </div>
     );
@@ -37,6 +46,13 @@ class App extends Component {
 
 const styles = StyleSheet.create({
   container: {
+    width: '100%',
+  },
+  darkMode: {
+    backgroundColor: colours.black,
+    color: colours.greyLight,
+  },
+  innerContainer: {
     maxWidth: 900,
     boxSizing: 'border-box',
     width: "100%",
@@ -46,11 +62,39 @@ const styles = StyleSheet.create({
       padding: 10,
     }
   },
-  darkMode: {
-    // dark mode:
-    backgroundColor: colours.black,
-    color: colours.greyLight,
+  button: {
+    background: 'rgba(255, 255, 255, 0.8)',
+    borderRadius: 4,
+    margin: 5,
+    padding: '5px 10px',
+    color: colours.black,
+    boxShadow: `0 0 0 1px rgba(0,0,0, 0.3)`,
+    ':hover': {
+      background: colours.greyLighter,
+    },
+    ':active': {
+      background: colours.greyLighter,
+    },
+    ':focus': {
+      background: colours.greyLighter,
+      boxShadow: `0 0 2px 2px ${colours.blue}`
+    },
   },
+  buttonActive: {
+    color: colours.greyLighter,
+    boxShadow: `0 0 0 1px rgba(0,0,0,0.9)`,
+    background: 'rgba(0,0,0,0.8)',
+
+    ':hover': {
+      background: colours.black,
+    },
+    ':active': {
+      background: colours.black,
+    },
+    ':focus': {
+      background: colours.black,
+    },
+  }
 });
 
 export default App;

@@ -17,16 +17,6 @@ const castIndex = {
 };
 const castList = Object.keys(castIndex);
 
-const characterIndex = {
-  CODY: null,
-  MAX: null,
-  ZAN: null,
-  ERICA: null,
-  JASMIN: null,
-  INTERCOM: null,
-};
-//const characterList = Object.keys(characterIndex);
-
 const speakerColours = {
   Alan: "red",
   CODY: "red",
@@ -45,12 +35,12 @@ const speakerColours = {
 
 class Transcript extends Component {
   render() {
-    const transcript = this.props.transcript;
+    const {transcript, darkMode, title, episode} = this.props;
     return (
       <div className={css(styles.transcript)}>
 
       <div className={css(styles.title)}>
-        Episode 1: A Cold, White Floor
+        Episode {episode}: {title}
       </div>
         {transcript.split('\n').map((line, count) => {
           let lineOutput = null;
@@ -63,7 +53,7 @@ class Transcript extends Component {
             </div>;
           } else if (line[0] === "{") {
             // Skip times for now, since idk what to do with them
-            return;
+            return null;
           } else if (line[0] === "[") {
             lineOutput = <div className={css(styles.soundEffect)} key={count}>
               {line}
@@ -72,12 +62,11 @@ class Transcript extends Component {
           lineOutput = <div className={css(styles.noSpeaker)} key={count}>
             {line}
           </div>;
-          console.log(line);
+          //console.log(line);
         } else {
 
             const speaker = line.split(':')[0];
             const content = line.split(':')[1];
-            let lineStyle = null;
             let speakerStyles = null;
             const speakerColour = speakerColours[speaker] || speakerColours.default;
 
@@ -88,7 +77,9 @@ class Transcript extends Component {
             } else {
               // Character Speaking
               characterSpeaking = true;
-              speakerStyles = {color: colours[speakerColour + "Dark"], backgroundColor: colours[speakerColour + "Lighter"]};
+              const colourDark = colours[speakerColour + "Dark"];
+              const colourLighter = colours[speakerColour + "Lighter"];
+              speakerStyles = {color: darkMode ? colourLighter : colourDark, backgroundColor: darkMode ? colourDark : colourLighter};
             }
             lineOutput = <div className={css(styles.lineInterior)}>
               <div className={css(styles.speakerBox, characterSpeaking && styles.speakerBoxCharacter)}>
@@ -119,24 +110,30 @@ class Transcripts extends Component {
   render() {
     const episode = this.props.episode;
     let transcript = null;
+    let title = null;
 
     if (episode === 1) {
       transcript = ep1;
+      title = "A Cold, White Floor";
     } else if (episode === 2) {
       transcript = ep2;
+      title = "Continued Calibration";
     } else if (episode === 3) {
       transcript = ep3;
+      title = "Breaking the Loop";
     } else if (episode === 4) {
       transcript = ep4;
+      title = "Beards and Bards";
     } else if (episode === 5) {
       transcript = ep5;
+      title = "Spooky Scary Skeletons";
     } else {
       return null;
     }
 
     return (
       <div className={css(styles.container)}>
-        <Transcript transcript={transcript}/>
+        <Transcript transcript={transcript} darkMode={this.props.darkMode} title={title} episode={episode}/>
       </div>
     );
   }
