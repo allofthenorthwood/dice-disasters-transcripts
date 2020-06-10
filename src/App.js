@@ -8,6 +8,14 @@ class App extends Component {
     selectedEpisode: 1,
     darkMode: false,
   }
+
+  componentDidUpdate() {
+    if (this.parent && this.parent.resizeIframe){
+      this.parent.resizeIframe(this.frameElement);
+    }
+    console.log("Episode " + this.state.selectedEpisode)
+  }
+
   render() {
     const episodes = [1, 2, 3, 4, 5];
     const selectedEpisode = this.state.selectedEpisode;
@@ -19,7 +27,7 @@ class App extends Component {
           {episodes.map((episodeNumber) => {
             return <button
               className={css(styles.button, selectedEpisode === episodeNumber && styles.buttonActive)}
-              onClick={() => this.setState({selectedEpisode: episodeNumber})}
+              onClick={() => {this.setState({selectedEpisode: episodeNumber})}}
               key={episodeNumber}
             >Episode {episodeNumber}</button>
           })}

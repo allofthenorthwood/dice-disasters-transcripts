@@ -109,7 +109,7 @@ class Transcript extends Component {
             <div>
             </div>
               <div className={css(styles.speakerBox, characterSpeaking && styles.speakerBoxCharacter)}>
-              {characterSpeaking && emoji && <img src={emoji} className={css(styles.emoji)}/>}
+              {characterSpeaking && emoji && <img alt="" src={emoji} className={css(styles.emoji)}/>}
               <div
                 className={css(styles.speaker, characterSpeaking && styles.characterSpeaker)}
                 style={speakerStyles}
