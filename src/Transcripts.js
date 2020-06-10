@@ -6,6 +6,11 @@ import ep3 from './transcripts/ep3-transcript';
 import ep4 from './transcripts/ep4-transcript';
 import ep5 from './transcripts/ep5-transcript';
 import {colours} from './helpers.js';
+import emojiZan from './emoji/zan-mad.png';
+import emojiJasmin from './emoji/jasmin-blush.png';
+import emojiMax from './emoji/max-happy.png';
+import emojiCody from './emoji/cody-happy.png';
+import emojiErica from './emoji/erica-confused.png';
 
 const castIndex = {
   oliver: "DM",
@@ -17,6 +22,14 @@ const castIndex = {
   everyone: null,
 };
 const castList = Object.keys(castIndex);
+
+const speakerEmoji = {
+  zan: emojiZan,
+  jasmin: emojiJasmin,
+  erica: emojiErica,
+  cody: emojiCody,
+  max: emojiMax,
+};
 
 const speakerColours = {
   alan: "red",
@@ -73,6 +86,7 @@ class Transcript extends Component {
             const content = line.split(':')[1];
             let speakerStyles = null;
             const speakerColour = speakerColours[speaker] || speakerColours.default;
+            const emoji = speakerEmoji[speaker] || null;
             // Check for mistyped speakers:
             // if (speakerColour === speakerColours.default) {
             //   console.log(line);
@@ -90,8 +104,12 @@ class Transcript extends Component {
               const colourLighter = colours[speakerColour + "Lighter"];
               speakerStyles = {color: darkMode ? colourLighter : colourDark, backgroundColor: darkMode ? colourDark : colourLighter};
             }
+
             lineOutput = <div className={css(styles.lineInterior)}>
+            <div>
+            </div>
               <div className={css(styles.speakerBox, characterSpeaking && styles.speakerBoxCharacter)}>
+              {characterSpeaking && emoji && <img src={emoji} className={css(styles.emoji)}/>}
               <div
                 className={css(styles.speaker, characterSpeaking && styles.characterSpeaker)}
                 style={speakerStyles}
@@ -222,6 +240,13 @@ const styles = StyleSheet.create({
   content: {
     flex: 1,
   },
+  emoji: {
+    width: 24,
+    display: "inline-block",
+    verticalAlign: "middle",
+    marginRight: 5,
+    marginLeft: 5,
+  }
 });
 
 export default Transcripts;
