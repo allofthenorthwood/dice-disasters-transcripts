@@ -5,7 +5,7 @@ import {colours} from './helpers.js';
 
 class App extends Component {
   state = {
-    selectedEpisode: 5,
+    selectedEpisode: 1,
     darkMode: false,
   }
   render() {
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   darkMode: {
-    backgroundColor: colours.black,
+    backgroundColor: colours.blackDark,
     color: colours.greyLight,
   },
   innerContainer: {

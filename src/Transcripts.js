@@ -8,28 +8,31 @@ import ep5 from './transcripts/ep5-transcript';
 import {colours} from './helpers.js';
 
 const castIndex = {
-  Oliver: "DM",
-  Talia: "Zan",
-  Alice: "Jasmin",
-  Alan: "Cody",
-  Allison: "Erica",
-  Robot: "Max",
+  oliver: "DM",
+  talia: "Zan",
+  alice: "Jasmin",
+  alan: "Cody",
+  allison: "Erica",
+  robot: "Max",
+  everyone: null,
 };
 const castList = Object.keys(castIndex);
 
 const speakerColours = {
-  Alan: "red",
-  CODY: "red",
-  Alice: "green",
-  JASMIN: "green",
-  Robot: "blue",
-  MAX: "blue",
-  Talia: "violet",
-  ZAN: "violet",
-  Allison: "orange",
-  ERICA: "orange",
-  INTERCOM: "grey",
-  "DREAM VOICES": "magenta",
+  alan: "red",
+  cody: "red",
+  alice: "green",
+  jasmin: "green",
+  robot: "blue",
+  max: "blue",
+  talia: "violet",
+  zan: "violet",
+  allison: "orange",
+  erica: "orange",
+  oliver: "grey",
+  everyone: "grey",
+  intercom: "grey",
+  "dream voices": "magenta",
   default: "grey",
 };
 
@@ -43,6 +46,7 @@ class Transcript extends Component {
         Episode {episode}: {title}
       </div>
         {transcript.split('\n').map((line, count) => {
+          line = line.trim();
           let lineOutput = null;
           let characterSpeaking = false;
           if  (line.length <= 1) {
@@ -65,10 +69,14 @@ class Transcript extends Component {
           //console.log(line);
         } else {
 
-            const speaker = line.split(':')[0];
+            let speaker = line.split(':')[0].toLowerCase();
             const content = line.split(':')[1];
             let speakerStyles = null;
             const speakerColour = speakerColours[speaker] || speakerColours.default;
+            // Check for mistyped speakers:
+            // if (speakerColour === speakerColours.default) {
+            //   console.log(line);
+            // }
 
             if (castList.indexOf(speaker) > -1) {
               // Cast speaking as themself
@@ -77,6 +85,7 @@ class Transcript extends Component {
             } else {
               // Character Speaking
               characterSpeaking = true;
+              speaker = speaker.toUpperCase();
               const colourDark = colours[speakerColour + "Dark"];
               const colourLighter = colours[speakerColour + "Lighter"];
               speakerStyles = {color: darkMode ? colourLighter : colourDark, backgroundColor: darkMode ? colourDark : colourLighter};
@@ -87,7 +96,7 @@ class Transcript extends Component {
                 className={css(styles.speaker, characterSpeaking && styles.characterSpeaker)}
                 style={speakerStyles}
               >
-                {speaker}:
+                {characterSpeaking ? speaker.toUpperCase() : speaker[0].toUpperCase() + speaker.slice(1)}:
 
               </div>
               </div>

@@ -281,7 +281,8 @@ Oliver: Great! So you got one on each wrist, so I assume you picked one and star
 Robot: Uh-huh.
 Oliver: Great, nothing happens. Do you want to do an investigation check to really look at it?
 Robot: Oh no, it’s just a lot of poking and swiping.
-[crosstalk] Oliver: Double tap, pinch to zoom.
+[crosstalk]
+Oliver: Double tap, pinch to zoom.
 Robot: Zoom in and out.
 Oliver: Perfect. Alright, nothing happens.
 JASMIN: Are you sure that's a great idea? What if it explodes or something?
@@ -314,7 +315,8 @@ Oliver: Yeah, as you actually do that motion of like, squishing it in. It does g
 Talia: Oh, nice.
 Alan: Uh, this whole time, the moment Cody saw Zan do it, he has also put his together, and is just waving his hand around, trying to see if the hologram moves with his hand.
 Oliver: It does move with his hand. Cody, though, along with all of your personal information, it does have a line that says “Class Designation: Wizard.” And then underneath that is a list. There are options like “equip quarter staff” and then “cast light.” And next to each of those spells is a level. At the top of the list it says Level one, there's two check boxes. One is already filled in. So on your character sheet, you can now see all of these extra things you can do.
-[crosstalk] Oliver: I don't actually know if Cody looked at it or is still just fucking around.
+[crosstalk]
+Oliver: I don't actually know if Cody looked at it or is still just fucking around.
 Alan: Yeah, he hasn't looked beyond, like, he just got it activated. And is just kind of like messing with the hologram trying to see, like can shake it off, like, he's just playing around the new toy. Basically.
 Oliver: Great. Well, the rest of you can I think I see his screen from there and see that his has more stuff than yours does.
 Alice: I very explicitly do not do the thing.
@@ -329,8 +331,8 @@ ZAN: Well, that doesn't sound great.
 JASMIN: No, let's go. I don't want to be incentivized. It sounds unpleasant.
 === START MIDROLL ===
 Oliver: Welcome to the first episode of Dice Disasters. This is our home brew Dungeons and Dragons podcast. I'm your dungeon master, Oliver Northwood, my pronouns are they/them. I live in California but I am Canadian so sometimes they say words different than Americans. And here's the rest of the people. I don't know. This is hard.
-Talia and Alan: Hi!
-Alan: We’re all here! Hello everyone!
+Talia: Hi!
+Alan: Hi! We’re all here! Hello everyone!
 Oliver: Everyone makes disturbed, nervous noises.
 Alan: Thank you for listening to our podcast, that we're making for you, and for us... mostly for us.
 Alice: Mostly for us.
@@ -350,12 +352,13 @@ Oliver: The friends are an unfortunate side effect.
 Talia: We'll make do.
 Robot: Howdy, y’all.
 [cast dissolves into screams and laughter]
-[crosstalk] Robot: Fuck yeah, I’m keepin’ it! I'm keeping the howdy and you can't stop me.
+[crosstalk]
+Robot: Fuck yeah, I’m keepin’ it! I'm keeping the howdy and you can't stop me.
 Alice: Just... yes.
 Oliver: That's it. That was his whole introduction.
 Talia: Howdy, y’all, it’s me, the howdy man.
 Robot: Howdy, y’all I'm Robert Riley and--
-[crosstalk] Everyone else: No, no, no, no, no, no, no, no, no, no, no.
+[crosstalk] "No, no, no, no, no, no, no, no, no, no, no."
 Oliver: I absolutely refuse to have that name exist. Your name is Robot.
 Alan: Yes.
 Oliver: You have been always named Robot and forever named Robot.
@@ -368,7 +371,8 @@ Talia: What's the alligator’s name?
 Alice: What’s his name?
 Robot: Um, Tim...othy.
 Oliver: I heard “tit.”
-[crosstalk] Alan: This is my alligator, tit.
+[crosstalk]
+Alan: This is my alligator, tit.
 Alice: TITmothy?? Titmothy the alligator.
 [laughter and crosstalk]
 Alice: I think it’s my turn? Hi, I’m Alice Jooren. I'm a character artist from the Netherlands. My pronouns are she and hers, and I play Jasmin those pronouns are also she and hers. I'm in about five D&D groups and I play a lot of it. Don't at me about this. But another thing is that I like a lot of other tabletop RPGs too. I've played pretty much all of the ones that I know about. And I'm always up for playing more.
@@ -431,7 +435,7 @@ Alice: Jasmin points to the holes in the wall.
 JASMIN: I think if we just hop over the parts next to these, we will probably not get burnt.
 ZAN: Oh, good catch. I was definitely not looking at the wall side of things. I was looking more at the floor. So, uh, guess we move forward and uh, look out for holes.
 Alan: How far away is the tile where the wrench landed?
-Oliver : Um, I'd say it's like 40 feet okay. It's a long hallway. Can you throw something 40 feet?
+Oliver: Um, I'd say it's like 40 feet okay. It's a long hallway. Can you throw something 40 feet?
 Robot: Yeah. Absolutely.
 Oliver: Oh yeah, you were a muscle boy. Stronk. Yeah, you did it. Good job.
 Robot: Once you point that out, Max is still gonna be up front, moving forward, looking out for the holes in the wall.
@@ -445,14 +449,14 @@ Alice: We're level one.
 Robot: There's a lot of muscle! I can't move it very quickly!
 Oliver: Okay, so you see that as Max is kind of like leaping down this hallway over every tile that is marked by these little holes, he just flubs one. Lands right in the middle of the tile. It clicks down. But I'm going to say that since you already know what happens, you just then jump off of the tile and you're okay because there is, like, a good, full like beat of you step on the tile, it clicks down. Wait. And then the things come out. So with a 10 you make it. But I imagine everyone at the end of the hallway is going: “AH, OOH-- AAH!”
 Alan: While he's doing that, can Cody have started to slowly make his way down the hall? Maybe get about 10 feet by the time this happened?
-	JASMIN: Wait--
+JASMIN: Wait--
 Oliver: Yes.
 JASMIN: Wait, Cody!
 Oliver: Okay, so Cody's doing this. I'm actually, since you said you're gonna go really slow and, like, carefully jump over, I'll give you advantage if you want to roll-- I guess it's acrobatics, not dexterity. I don't know if that would have helped you.
 Alan: Uh, yes. Okay. Good. Good for advantage. That was a three. That was a 16.
 Oliver: Okay. Yeah. Cody's totally fine. Cody jumps down the hallway.
 Alan: And then Well, once I get ahead little bit -- the whole time he's doing it slowly, but he's still playing with this toy on his wrist -- and he clicks the second option, and a, uh, spectral hand flies out, grabs the wrench and flies back to Cody.
-	CODY: AW you won’t believe what the second one does!
+CODY: AW you won’t believe what the second one does!
 [Laughter]
 Oliver: So uh, Max just had the wrench ripped out of his hands by a spectral white glove like the one from Super Smash Brothers.
 Robot: Max is just sitting there, on the other side of the the hallway, slightly singed, like looking torn apart.
@@ -580,13 +584,13 @@ Oliver: You're all welcome to just say your character does nothing for their tur
 Talia: I mean, that seems like kind of a dick move. But I also don't see how anything I have would be particularly helpful.
 Alice: You could also just respond to the situation by like, “Oh, fuck,”
 Talia: Just be like, “Hey, you good?”
-	ZAN: Hey, you okay? Need help?
+ZAN: Hey, you okay? Need help?
 Robot: You're sitting on the side, being like “Hey, fam, you all right?”
 Oliver: “You all right down there?”
 Oliver: Okay, So why don't we say that if you're just going to kind of like, look down and inquire as to whether she's okay, um, why don't you roll a perception check?
 Talia: All right, I can do that. That's a five.
 Oliver: Yeah uhh... The water is kind of sloshing a little bit.
-	ZAN: Ah...
+ZAN: Ah...
 Oliver: You know Jasmin's in there, and that's bad.
 ZAN: Hey, guys, I found a big pit of water.
 Oliver: Ah, it is Jasmin's turn next.

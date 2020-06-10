@@ -163,7 +163,7 @@ Alan: Acrobatics check?
 Oliver: Yeah.
 Alan: That would be a seven.
 Talia: Oh no…
-Olier: You watch Max, this, like big, beefy football player looking dude, just huck this tiny 12 year old with a bowl cut straight up in the air.
+Oliver: You watch Max, this, like big, beefy football player looking dude, just huck this tiny 12 year old with a bowl cut straight up in the air.
 Talia: He's not even like an athletic kid. He’s like a nerd.
 Alan: I didn't realize that I had already run at Max-- my intent was as Cody was running, he was going to press feather fall on his wristband, I think, as he was going. So it was already going when he took off.
 Oliver: Sure. All right. You have feather fall on. Max chucks you up in the air and you watch him go flying and he gets, I would say, maybe up to like 12 feet up the wall, and then kind of clonks his head against it, falls backwards and slowly floats back down, into Max’s lap.
@@ -440,7 +440,7 @@ Talia: Teeth Cast! I'm just going to talk about cursed images that I found onlin
 Alan: Oh, gross. Okay, well, the internet is full of terrifying things, but you know what also is on the Internet?
 Talia: What?
 Alan: Our website.
-Tala: [Gasps.]
+talia: [Gasps.]
 Alan: How’d you like that segue?
 Talia: We have a website?
 Alan: We do. It's dicedisasters.com.
@@ -957,7 +957,7 @@ Oliver: Go for it.
 Alan: Cody just leans up against the wall and sits down, and just says, to kind of to himself, But loud enough, that everyone can hear--
 CODY: We tried... so hard.
 Alan: And he kinda just sits there.
-Tallia: Oh, no.
+talia: Oh, no.
 Oliver: And with that, we’ll leave our four wayward humans stuck in a closet until next time.
 === START ENDROLL ===
 You can find us on Twitter, our handle is @dicedisasters and we have more information about the show, including character sheets, and info about the cast, at disasters.com
