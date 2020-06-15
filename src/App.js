@@ -3,6 +3,7 @@ import { StyleSheet, css } from "aphrodite";
 import Transcripts from "./Transcripts.js"
 import {colours} from './helpers.js';
 
+
 class App extends Component {
   state = {
     selectedEpisode: 1,
@@ -10,9 +11,9 @@ class App extends Component {
   }
 
   componentDidUpdate() {
-    if (this.parent && this.parent.resizeIframe){
-      this.parent.resizeIframe(this.frameElement);
-    }
+
+    
+
     console.log("Episode " + this.state.selectedEpisode)
   }
 
