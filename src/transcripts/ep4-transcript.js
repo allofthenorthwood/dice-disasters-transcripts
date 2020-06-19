@@ -247,7 +247,7 @@ ZAN: Nope!
 MAX: Fuck.
 ZAN: Damn it!
 === START MIDROLL ===
-Alan: Well, hello. Welcome back to dice Disasters to the middle part of the episode where we stop pretending to be other people.
+Alan: Well, hello. Welcome back to Dice Disasters to the middle part of the episode where we stop pretending to be other people.
 Robot: Yay.
 Alan: Yay. Break time. We have big news. As you probably figured out, we have a new friend who joined us. Allison's here!
 Allison: Well hi! Said in a Southern cat voice.
@@ -822,7 +822,7 @@ You can find us on Twitter @dicecisasters and we have more information about the
 Our beautiful website was made by Allison Otting, who plays Erica.
 Dice Disasters is edited by Alan Brazzell, who plays Cody.
 Our cover art is made by  our DM, Oliver Northwood. Our theme song is by People Need Goals, who you can find on bandcamp, or on Twitter @peopleneedgoals. Their music is amazing and we love jamming out to our theme song.
-We've posted the first few episodes of dice disasters all at once. Please go ahead and listen to the next one, and subscribe! We appreciate you listening.
+We've posted the first few episodes of Dice Disasters all at once. Please go ahead and listen to the next one, and subscribe! We appreciate you listening.
 === END ENDROLL ===`
 
 export default transcript;
