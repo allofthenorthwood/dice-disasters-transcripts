@@ -221,7 +221,7 @@ Talia: Gonna get a new dice…
 [Alan sighs]
 Talia: Oddly enough, that’s another 9.
 Oliver: Okay, great!
-Cody: That’s an 8 for Cody. [laughs]
+Alan: That’s an 8 for Cody. [laughs]
 Oliver: 8 for Cody… Max, what’d you get?
 Robot: This dice is going straight to jail because I got a 4.
 [Everyone laughs]

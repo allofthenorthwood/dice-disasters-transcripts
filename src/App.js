@@ -10,39 +10,36 @@ class App extends Component {
     darkMode: false,
   }
 
-  componentDidUpdate() {
-
-    
-
-    console.log("Episode " + this.state.selectedEpisode)
-  }
-
   render() {
-    const episodes = [1, 2, 3, 4, 5];
+    const episodes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
     const selectedEpisode = this.state.selectedEpisode;
     const darkMode = this.state.darkMode;
     return (
       <div className={css(styles.container, darkMode && styles.darkMode)}>
       <div className={css(styles.innerContainer)}>
-        <div className={css(styles.transcriptPicker)}>
-          {episodes.map((episodeNumber) => {
-            return <button
-              className={css(styles.button, selectedEpisode === episodeNumber && styles.buttonActive)}
-              onClick={() => {this.setState({selectedEpisode: episodeNumber})}}
-              key={episodeNumber}
-            >Episode {episodeNumber}</button>
-          })}
+        <div className={css(styles.navigation)}>
+          <div className={css(styles.transcriptPicker)}>
+            Episode: {episodes.map((episodeNumber) => {
+              return <button
+                className={css(styles.button, selectedEpisode === episodeNumber && styles.buttonActive)}
+                onClick={() => {this.setState({selectedEpisode: episodeNumber})}}
+                key={episodeNumber}
+              >{episodeNumber}</button>
+            })}
 
-        </div>
-        <div className={css(styles.colourModePicker)}>
-          <button
-            className={css(styles.button, !darkMode && styles.buttonActive)}
-            onClick={() =>this.setState({darkMode: false})}
-          >Light Mode</button>
-          <button
-            className={css(styles.button, darkMode && styles.buttonActive)}
-            onClick={() => this.setState({darkMode: true})}
-          >Dark Mode</button>
+          </div>
+          <div
+            className={css(styles.colourModePicker)}
+            onClick={() => this.setState({darkMode: !darkMode})}
+            aria-hidden="true"
+          >
+            <input
+              type="checkbox"
+              className={css(styles.darkModeCheckbox)}
+              checked={darkMode}
+            />
+            <label className={css(styles.darkModeLabel)}>Dark Mode</label>
+          </div>
         </div>
         <div className={css(styles.transcript)}>
           <Transcripts episode={selectedEpisode} darkMode={darkMode}/>
@@ -71,6 +68,10 @@ const styles = StyleSheet.create({
       padding: 10,
     }
   },
+  navigation: {
+    display: 'flex',
+    justifyContent: 'space-between',
+  },
   button: {
     background: 'rgba(255, 255, 255, 0.8)',
     borderRadius: 4,
@@ -88,6 +89,13 @@ const styles = StyleSheet.create({
       background: colours.greyLighter,
       boxShadow: `0 0 2px 2px ${colours.blue}`
     },
+  },
+  darkModeCheckbox: {
+    verticalAlign: 'middle',
+  },
+  darkModeLabel: {
+    paddingLeft: 3,
+    verticalAlign: 'middle',
   },
   buttonActive: {
     color: colours.greyLighter,
