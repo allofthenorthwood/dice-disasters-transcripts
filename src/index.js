@@ -19,6 +19,8 @@ if (window.parent !== window) {
   let observer = new MutationObserver(check);
   observer.observe(container, { attributes: true, childList: true, subtree: true });
   requestAnimationFrame(check);
+  window.addEventListener('resize', check);
+  document.fonts.ready.then(check);
 }
 
 // If you want your app to work offline and load faster, you can change
