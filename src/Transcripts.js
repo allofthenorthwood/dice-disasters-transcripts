@@ -5,6 +5,7 @@ import ep2 from './transcripts/ep2-transcript';
 import ep3 from './transcripts/ep3-transcript';
 import ep4 from './transcripts/ep4-transcript';
 import ep5 from './transcripts/ep5-transcript';
+import ep6 from './transcripts/ep6-transcript';
 import {colours} from './helpers.js';
 import emojiZan from './emoji/zan-mad.png';
 import emojiJasmin from './emoji/jasmin-blush.png';
@@ -154,6 +155,9 @@ class Transcripts extends Component {
     } else if (episode === 5) {
       transcript = ep5;
       title = "Spooky Scary Skeletons";
+    } else if (episode === 6) {
+      transcript = ep6;
+      title = "First Contact";
     } else {
       return null;
     }
