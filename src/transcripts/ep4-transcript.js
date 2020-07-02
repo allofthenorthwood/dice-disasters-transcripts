@@ -279,7 +279,8 @@ Robot: If it works, it works.
 Alan: It does. And we look forward to having really fun, crazy, cool names in our story. But anyways, thanks for listening. We've posted the first five episodes at once, so you can jump into episode five after this is over. But we'll let you get back to the story!
 Robot: Bye!
 Allison: Bye!
-Oliver: Rolll Initiative!
+=== END MIDROLL ===
+Oliver: Roll Initiative!
 Talia: That's a Nat 20 for Zan.
 Oliver: Damn.
 Alan: Nat 20 for Cody.
@@ -645,7 +646,7 @@ Oliver: And as its speaking, it's kind of like flickering like the orb was flick
 INTERCOM: Humans that are exposed to the SPE are at a high likelihood of liquification without the SPEL proprietary wristband.
 JASMIN: Wait-- So if we take these things off, we become... juice?
 ZAN: Ugh...
-INTERCOM: Previous subjects who have removed the SPEL proprietary respond have become [distorted] "juice."
+INTERCOM: Previous subjects who have removed the SPEL proprietary wristbands have become [distorted] "juice."
 [Laughter]
 ZAN: That's the worst way to put that!
 JASMIN: I have another question. Actually... Cody, Cody, you probably know this.
