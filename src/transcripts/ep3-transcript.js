@@ -1,6 +1,7 @@
 const transcript = `Oliver: The four of you are standing in an airlock between Testing Chambers E and F. The space is about six feet by six feet, eight feet high. They are two square airlock doors, both ringed in red light. The doors look like metal elevator doors that open at a diagonal instead of vertically. After Jasmin noticed the sound of gas entering the chamber and pointed it out, Zan used her ethereal longbow to blast the grate clean off the ceiling. In the space above the ceiling tiles, you found the end of a small pipe omitting what you assume to be knockout gas. Max took his trusty metal dart and used it to plug the end of the pipe, buying you all some time to... do whatever it is you want to do. I believe Cody is sitting on the floor having little freakin time and you hear a chime.
 === INTRO THEME: “Elysia” by People Need Goals ===
-INTERCOM: DING DING. Calibration has been completed. Stress testing of the SPE l proprietary wrist bands must commence after subjects have been reset to full health. Please breathe in and out as normal to commence reset. So what do you do?
+INTERCOM: DING DING. Calibration has been completed. Stress testing of the SPEL proprietary wrist bands must commence after subjects have been reset to full health. Please breathe in and out as normal to commence reset.
+OLIVER: So what do you do?
 ZAN: Stress testing is fucking right! Sorry, kid. Uh...
 CODY: That's okay. I've heard the word before.
 Oliver: Cody's resigned to just hearing more swear words.
@@ -11,7 +12,7 @@ CODY: Did did you get us stuck in here?
 JASMIN: Um, I don't know!
 ZAN: I'm pretty sure we're already stuck in here.
 JASMIN: Yeah, and if they keep knocking us out and then then dragging us to the other room then there has to be someone or something that comes to get us. So they have to come from somewhere?
-ZAN: Also, like, I don't I don't know where this is going. Like we were just sort of given powers or whatever, but, like, I'm pretty sure Max died! And, like, that's-- I don't like I don't know what to do with this anymore. Do we just keep going?
+ZAN: Also, like, I don't-- I don't know where this is going. Like we were just sort of given powers or whatever, but, like, I'm pretty sure Max died! And, like, that's-- I don't-- like-- I don't know what to do with this anymore. Do we just keep going?
 CODY: I want to go home.
 ZAN: Yeah.
 Robot: Is the dart stuck in this pipe or am I holding it closed?
@@ -117,11 +118,11 @@ Oliver: All right.
 Talia: I think I've only rolled sixes so far, and I rolled, like, five times.
 Oliver: How big is your dice jail at this point?
 Talia: Three out of five.
-Oliver: Um, you open this little box up, it's Ah, it's not hard to open. There's a control panel inside. There's a bunch of blinking lights and wires and knobs and switches. Um, but you notice there are two controls labeled emergency. There is a knob that looks like the kind you would use to turn on a garden hose. And it's labeled emergency gas shut off. There's also a switch labeled Emergency Door Override.
+Oliver: Um, you open this little box up, it's Ah, it's not hard to open. There's a control panel inside. There's a bunch of blinking lights and wires and knobs and switches. Um, but you notice there are two controls labeled "emergency." There is a knob that looks like the kind you would use to turn on a garden hose, and it's labeled Emergency Gas Shut-Off. There's also a switch labeled Emergency Door Override.
 Talia: Can I just, like, hit both of those?
 Oliver: Yeah, Okay. Um, so, uh, you turn the knob and you hear like a screeching noise as this old knob turns. And back in that airlock chamber, the hissing stops and the dart is no longer being pushed against your hand, Jasmin.
 ZAN: I did something!
-Oliver: And then you also hit the emergency door Override?
+Oliver: And then you also hit the Emergency Door Override?
 Talia: Yes.
 Oliver: Okay, so you hit that and you hear a VWOOP. And in the airlock, both of the doors turn-- the light surrounding them turns blue. And since they're automatic doors based on proximity, they just open. So back the way you came, you see that big open chamber and, uh, the sword automaton standing in the middle of the room and the other way you see a long hallway.
 JASMIN: You did it!

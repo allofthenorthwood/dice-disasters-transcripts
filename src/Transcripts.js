@@ -52,13 +52,18 @@ const speakerColours = {
 
 class Transcript extends Component {
   render() {
-    const {transcript, darkMode, title, episode} = this.props;
+    const {darkMode, title, episode, debug} = this.props;
+    const transcriptRaw = this.props.transcript;
+
+    let transcript = transcriptRaw.replace(/:\n/g, ": ");
+
     return (
       <div className={css(styles.transcript)}>
 
-      <div className={css(styles.title)}>
+      <div className={css(styles.title, debug && styles.noSelect)}>
         Episode {episode}: {title}
       </div>
+      <div contentEditable={debug ? 'true' : 'false'}>
         {transcript.split('\n').map((line, count) => {
           line = line.trim();
           let lineOutput = null;
@@ -67,11 +72,17 @@ class Transcript extends Component {
             return null;
           } else if (line[0] === "=") {
             lineOutput = <div className={css(styles.midroll)} key={count}>
-              {line.replace(/=/g, '')}
+              {debug ? line : line.replace(/=/g, '')}
             </div>;
           } else if (line[0] === "{") {
             // Skip times for now, since idk what to do with them
-            return null;
+            if (debug) {
+              lineOutput = <div className={css(styles.soundEffect)} key={count}>
+                {line}
+              </div>;
+            } else {
+              return null;
+            }
           } else if (line[0] === "[") {
             lineOutput = <div className={css(styles.soundEffect)} key={count}>
               {line}
@@ -107,8 +118,6 @@ class Transcript extends Component {
             }
 
             lineOutput = <div className={css(styles.lineInterior)}>
-            <div>
-            </div>
               <div className={css(styles.speakerBox, characterSpeaking && styles.speakerBoxCharacter)}>
               {characterSpeaking && emoji && <img alt="" src={emoji} className={css(styles.emoji)}/>}
               <div
@@ -129,6 +138,7 @@ class Transcript extends Component {
             {lineOutput}
           </div>;
         })}
+        </div>
       </div>
     );
   }
@@ -136,7 +146,7 @@ class Transcript extends Component {
 
 class Transcripts extends Component {
   render() {
-    const episode = this.props.episode;
+    const {episode, darkMode, debug} = this.props;
     let transcript = null;
     let title = null;
 
@@ -164,7 +174,12 @@ class Transcripts extends Component {
 
     return (
       <div className={css(styles.container)}>
-        <Transcript transcript={transcript} darkMode={this.props.darkMode} title={title} episode={episode}/>
+        <Transcript
+          transcript={transcript}
+          darkMode={darkMode}
+          title={title}
+          episode={episode}
+          debug={debug}/>
       </div>
     );
   }
@@ -222,8 +237,8 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     borderRadius: 3,
   },
-  castSpeaker: {
-
+  noSelect: {
+    userSelect: 'none',
   },
   characterSpeakerLine: {
     marginLeft: 70,

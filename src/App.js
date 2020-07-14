@@ -3,6 +3,7 @@ import { StyleSheet, css } from "aphrodite";
 import Transcripts from "./Transcripts.js"
 import {colours} from './helpers.js';
 
+const DEBUG = false;
 
 class App extends Component {
   state = {
@@ -17,7 +18,7 @@ class App extends Component {
     return (
       <div className={css(styles.container, darkMode && styles.darkMode)}>
       <div className={css(styles.innerContainer)}>
-        <div className={css(styles.navigation)}>
+        <div className={css(styles.navigation, DEBUG && styles.noSelect)}>
           <div className={css(styles.transcriptPicker)}>
             Episode: {episodes.map((episodeNumber) => {
               return <button
@@ -42,7 +43,11 @@ class App extends Component {
           </div>
         </div>
         <div className={css(styles.transcript)}>
-          <Transcripts episode={selectedEpisode} darkMode={darkMode}/>
+          <Transcripts
+            episode={selectedEpisode}
+            darkMode={darkMode}
+            debug={DEBUG}
+          />
         </div>
         </div>
       </div>
@@ -67,6 +72,9 @@ const styles = StyleSheet.create({
     '@media (max-width: 600px)': {
       padding: 10,
     }
+  },
+  noSelect: {
+    userSelect: 'none',
   },
   navigation: {
     display: 'flex',

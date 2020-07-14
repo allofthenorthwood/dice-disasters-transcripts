@@ -5,7 +5,7 @@ const transcript = `Oliver: You wake up on a cold, white floor. You’re face-do
 
 
 {1:15}
-Talia: Could we—could I look around?
+Talia:Could we—could I look around?
 Oliver: Yes, you can definitely look around! So as you look around, you see more of the same large, white tiles. They cover the floor of this square room, as well as the walls, and as you crane your neck upward you see that the ceiling is the same. Each tile gives off a soft, white glow, and together they light up the room. There are no windows in this room. On one wall is a square, metal door, ringed in blue light. It looks like an airlock from a generic sci-fi movie. There’s no handle, and a diagonal line down the center where you assume it will part to let you through.
 Oliver: There are, however, three other people strewn about, all waking up in various states of confusion.
 Oliver: So, to the four of you, I’m going to say that you’re probably looking around at this point, and could you each give a quick description of what the other characters see when they look at you? And I will start with… Jasmin.
