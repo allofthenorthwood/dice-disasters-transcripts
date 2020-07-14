@@ -4,6 +4,7 @@ import Transcripts from "./Transcripts.js"
 import {colours} from './helpers.js';
 
 const DEBUG = false;
+const EDITING_EP_NUM = 3;
 
 class App extends Component {
   state = {
@@ -18,7 +19,7 @@ class App extends Component {
     return (
       <div className={css(styles.container, darkMode && styles.darkMode)}>
       <div className={css(styles.innerContainer)}>
-        <div className={css(styles.navigation, DEBUG && styles.noSelect)}>
+        {!(DEBUG && EDITING_EP_NUM) && <div className={css(styles.navigation, DEBUG && styles.noSelect)}>
           <div className={css(styles.transcriptPicker)}>
             Episode: {episodes.map((episodeNumber) => {
               return <button
@@ -41,10 +42,10 @@ class App extends Component {
             />
             <label className={css(styles.darkModeLabel)}>Dark Mode</label>
           </div>
-        </div>
+        </div>}
         <div className={css(styles.transcript)}>
           <Transcripts
-            episode={selectedEpisode}
+            episode={(DEBUG && EDITING_EP_NUM) ? EDITING_EP_NUM : selectedEpisode}
             darkMode={darkMode}
             debug={DEBUG}
           />
