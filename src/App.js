@@ -4,7 +4,7 @@ import Transcripts from "./Transcripts.js"
 import {colours} from './helpers.js';
 
 const DEBUG = false;
-const EDITING_EP_NUM = 3;
+const EDITING_EP_NUM = 0;
 
 class App extends Component {
   state = {
