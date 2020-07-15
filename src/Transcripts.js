@@ -12,6 +12,9 @@ import emojiJasmin from './emoji/jasmin-blush.png';
 import emojiMax from './emoji/max-happy.png';
 import emojiCody from './emoji/cody-happy.png';
 import emojiErica from './emoji/erica-confused.png';
+import emojiNula from './emoji/nula.png';
+import emojiWindred from './emoji/windred.png';
+import emojiLili from './emoji/lili.png';
 
 const castIndex = {
   oliver: "DM",
@@ -30,6 +33,9 @@ const speakerEmoji = {
   erica: emojiErica,
   cody: emojiCody,
   max: emojiMax,
+  nula: emojiNula,
+  windred: emojiWindred,
+  lili: emojiLili,
 };
 
 const speakerColours = {
@@ -260,7 +266,8 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   emoji: {
-    width: 24,
+    //maxWidth: 24,
+    maxHeight: 24,
     display: "inline-block",
     verticalAlign: "middle",
     marginRight: 5,
