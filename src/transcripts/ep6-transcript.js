@@ -1136,7 +1136,7 @@ MAX:
 Have you ever climbed a tree before?
 CODY:
 Well, um I tried once. Ah, it went kind of okay, but I-- we could-- I don't have to. I just was... It's pretty and I want to climb it.
-Erica:
+ERICA:
 It's not a bad idea, Cody. Um, Max, are you a proficient tree climber? I just don't want to send a 12 year old to fall to his death.
 CODY:
 Well, I have feather fall if it goes wrong.
@@ -1222,7 +1222,7 @@ Yes, actually, as soon as you understand what Zan is communicating to you, you r
 Alice:
 Yep. Scurry into the bag.
 Oliver:
-Yeah. They curl up and hold each other. Hat kind of pets Jasmin's head a little bit with their tongue. Is like, this is a baby.
+Yeah. They curl up and hold each other. Hat kind of pets Jasmin's head a little bit with her tongue. She's like, this is a baby.
 ZAN:
 I think there's a bit of berry somewhere in there.
 Oliver:
@@ -1260,7 +1260,7 @@ You back on Zan's shoulder?
 Alice:
 Yeah.
 Oliver:
-Yeah. All right. You guys are walking back through the woods following the stream. I assume Erica or somebody is carrying this bundle of berries. Maybe you grabbed multiple leaves and of multiple bundles of berries and then... Zan's kind of leading the way, and then Jasmin's on her shoulder, and then they both fall into a big pile.
+Yeah. All right. You guys are walking back through the woods following the stream. I assume Erica or somebody is carrying this bundle of berries. Maybe you grabbed multiple leaves and multiple bundles of berries and then... Zan's kind of leading the way, and then Jasmin's on her shoulder, and then they both fall into a big pile.
 ZAN:
 FUCK!
 MAX:
@@ -1300,7 +1300,7 @@ Great.
 JASMIN:
 I guess...
 ZAN:
-It was great. Yeah. Uh, glad? Good. I'm good. Yes. Sorry. Uh, glad you're okay. Shall we go? House?
+It was great. Yeah. Uh, good? Good. I'm good. Yes. Sorry. Uh, glad you're okay. Shall we go? House?
 JASMIN:
 Uh, yeah. Ah, I'm-- I'm sorry.
 ZAN:
@@ -1338,17 +1338,15 @@ JASMIN:
 House? Berries?
 {57:00}
 Oliver:
-Yeah, you make it back to that clearing with the house and the dome and the big garden. And as you enter the clearing, you hear a rustling in the bushes. Like, 20 feet away from you. And then laughter. And from the forest steps and older person in a simple grey tunic and leather boots leaning on a walking stick. Long, dark braids, are coiled on their head and their eyes are a soft shade of brown. And their laughter cuts off abruptly when they see you, turning into surprise.
+Yeah, you make it back to that clearing with the house and the dome and the big garden. And as you enter the clearing, you hear a rustling in the bushes. Like, 20 feet away from you. And then laughter. And from the forest steps and older person in a simple grey tunic and leather boots leaning on a walking stick. Long, dark braids are coiled on their head and their eyes are a soft shade of brown. And their laughter cuts off abruptly when they see you, turning into surprise.
 ZAN:
 God, someone else talk this time.
 Oliver:
 Another voice calls out from the forest,
 LILI:
-Well, hello. Oh, my goodness. Yes, we do. Welcome. Welcome. Come on in. Nuwa. Do you see that we have get of course you see that we would guess Wendy Way have guests.
-:
 Oh, Nula, did I ever tell you the story of the goat with the two heads--
 Oliver:
-And behind this person, a towering giant of a woman steps out of the forest. She must be at least seven feet tall, with waves of white hair that cascade over her tanned, muscular shoulders. She's has a wide, flat nose, long, furry ears and flowers peppered throughout her hair. A pair of black horns juts out from the top of her head and curls down to her chin. She's wearing a green dress that ends at her knees, and you see that her legs are very furry, and instead of feet, she has hooves.
+And behind this person, a towering giant of a woman steps out of the forest. She must be at least seven feet tall, with waves of white hair that cascade over her tanned, muscular shoulders. She's has a wide, flat nose, long, furry ears and flowers peppered throughout her hair. A pair of black horns jut out from the top of her head and curl down to her chin. She's wearing a green dress that ends at her knees, and you see that her legs are very furry, and instead of feet, she has hooves.
 Allison:
 Erica is very tired of walking and just goes up to them and is like,
 ERICA:
@@ -1364,9 +1362,9 @@ She points towards the person with the walking stick who just kind of nods... sl
 LILI:
 And that's our wife Windred, she/her, at the house over. Windy! Windy get the tea! We have guests!
 Oliver:
-Windred, who you met earlier, is standing in the doorway of the house and she rolls her eyes and limps back inside. And you could see that she is a big cast on one leg.
+Windred, who you met earlier, is standing in the doorway of the house and she rolls her eyes and limps back inside. And you can see that she has a big cast on one leg.
 LILI:
-Okay, come, come, we'll start up a fire and you can rest and drink tea and oh are you hungry? Nula, let's make a stew! We can use those black roots that we found earlier by the springs!
+Okay, come, come, we'll start up a fire and you can rest and drink tea and oh-- are you hungry? Nula, let's make a stew! We can use those black roots that we found earlier by the springs!
 Oliver:
 And Lili starts bustling around getting firewood from behind the hut and she, like, waves you towards the house that she has bounded off towards.
 JASMIN:
@@ -1406,9 +1404,9 @@ Oh, hi. I'm Cody. Thank you for the tea and letting us-- This is a cool house. T
 LILI:
 Oh, I'm so glad that you love my house. What are your pronouns, dear?
 CODY:
-Uh uh, he him?
+Uh uh, he/him?
 LILI:
-Great. Thank you.
+Great! Thank you.
 CODY:
 We stayed in the cave last night!
 LILI:
@@ -1418,7 +1416,9 @@ Uh...
 Oliver:
 Lili hands out these mugs of tea, she pushes them into your hands and then, like, shepherds you towards the coach.
 Allison:
-Erica's helplessly standing in the middle of the floor, arms full of berries. Is just like looking around, like, what-- Somebody tell me what to do with these.
+Erica's helplessly standing in the middle of the floor, arms full of berries. Is just like looking around, like,
+ERICA:
+What-- Somebody tell me what to do with these.
 Oliver:
 Yeah, you're looking around and Windred it is there, the round lady with the antlers and she just, like, takes the berries out of your hands. She's like,
 WINDRED:
@@ -1476,9 +1476,9 @@ I would say there's more than usual. Nula, would you say that there's more than 
 Oliver:
 And Nula just kind of like, looks at her, and Lili's like,
 LILI:
-Yeah, I'd say more than usual. We had we had a lot of rain in the past couple of months, you know, being a spring. And then, um, I think when the water kind of like sits there in the in the mud and then the mushrooms come and they're like, "mmm, yeah! Yummy mud!" And then they grow and then they walk around and they're just.... They're so silly. Uh, I like them. They're very purple, but yes, all this stains.
+Yeah, I'd say more than usual. We had we had a lot of rain in the past couple of months, you know, being spring. And then, um, I think when the water kind of like sits there in the in the mud and then the mushrooms come and they're like, "mmm, yeah! Yummy mud!" And then they grow and then they walk around and they're just.... They're so silly. I like them. They're very purple, but yes, all these stains...
 Oliver:
-She gets out like a rag and starts kind of like wiping at your jumpsuit to like, clean it off.
+She gets out a rag and starts wiping at your jumpsuit to like, clean it off.
 JASMIN:
 Is "moveshrooms" their official name?
 LILI:
@@ -1493,7 +1493,7 @@ Erica is very stiffly standing, and it's so uncomfortable just being rubbed down
 Oliver:
 She is oblivious to that. She cleans off all of the goo, and she's like,
 LILI:
-Oh, this will stain. Do you want to just take it off? And I can put it in the washing with the rest of our stuff and get you like a big housecoat to bundle up in?
+Oh, this will stain. Do you want to just take it off? And I can put it in the washing with the rest of our stuff and get you a big housecoat to bundle up in?
 ERICA:
 Yeah, that would be great. That sounds perfect.
 LILI:
@@ -1662,7 +1662,7 @@ Okay?
 Robot:
 And then he's just gonna put the tea down somewhere. And then go stand back behind the couch.
 Oliver:
-There's a potted plant nearby. Um, make a slight of hand check.
+There's a potted plant nearby. Um, make a sleight of hand check.
 Robot:
 That is 13.
 Oliver:
@@ -1720,10 +1720,10 @@ Oh, no, it's [smothered] OK.
 Oliver:
 It's very soft. Her big bosoms are pressed into your face.
 ZAN:
-[Smothered and gay panic] Oh, this is great.
-LILI:
+[Smothered and gay panic sarcasm] Oh, this is great.
+Oliver:
 Then she sits back and kind of smooths your hair down.
-ZAN:
+LILI:
 Poor thing. Poor poor thing.
 Talia:
 Zan looks more like Hat at this moment that any other moment. Like a startled rodent.
@@ -1740,13 +1740,13 @@ JASMIN:
 ERICA:
 Okay, that's fair.
 Oliver:
-Lili bustles back into the room and her arms are just like overflowing with, like, these little dishes of various foods. And she starts setting them out on this, like, coffee table that they have. And there's like some like chips and some kind of like paste thing and some little shiny green orbs. They look a little bit like grapes, but they're too big. She starts like, pushing them towards you. And she's like,
+Lili bustles back into the room and her arms are just like overflowing with, like, these little dishes of various foods. And she starts setting them out on this coffee table that they have. And there's some chips and some kind of paste thing and some little shiny green orbs. They look a little bit like grapes, but they're too big. She starts like, pushing them towards you. And she's like,
 LILI:
 Eat, eat! You're probably hungry from all the walking.
 Oliver:
-And then she hooks. A big cauldron into the fireplace full of stew. Or, like, wet stew ingredients.
+And then she hooks a big cauldron into the fireplace full of stew. Or, like, wet stew ingredients.
 Alan:
-Cody started stuffing his face with whatever's brightest on the table.
+Cody starts stuffing his face with whatever's brightest on the table.
 [Laughter]
 Alan:
 Whatever looks this sweetest. And while he's doing so, he's like,
@@ -1771,7 +1771,7 @@ Oh, yes, The Hunter. He called himself The Hunter. Um, uses, like, very just lik
 CODY:
 Well, I tried to climb a tree and I got really high.
 LILI:
-Okay.
+Okay!
 CODY:
 But I couldn't see exactly where it where the trail went. Do you know where he was going?
 LILI:
@@ -1817,7 +1817,7 @@ Uh, Cody, do you open your mouth at all?
 CODY:
 Uh um-- um, um!
 Oliver:
-Yeah, as you say "um" and open your moth she puts she puts the spoonful of liquid in there. It's bitter, and it burns for a second and then you swallow it. And she's like,
+Yeah, as you say "um" and open your moth she puts she puts the spoonful of liquid in there. It's bitter, and it burns for a second and then you swallow it.
 CODY:
 Blegh!
 ZAN:
@@ -1893,9 +1893,9 @@ JASMIN:
 Oliver:
 She's like,
 LILI:
-This is teacup. He's our goblin. He's a little sweet, a little rascal too, aren't you? Aren't you?
+This is Teacup. He's our goblin. He's a little sweetie, a little rascal too, aren't you? Aren't you?
 Oliver:
-And she, like, kind of, like, moves her fingers in his face and he, like, playfully bites at them.
+And she, like, kind of, like, moves her fingers in his face and he playfully bites at them.
 JASMIN:
 Aw! That's what we call a cat.
 LILI:
@@ -1919,7 +1919,7 @@ Robot:
 Alice:
 Depends on how quickly Zan says her part.
 Oliver:
-She drops teacup in your arms, Jasmin. And as the cat like rolls over, you can see that he has, like, clover on his back.
+She drops Teacup in your arms, Jasmin. And as the cat like rolls over, you can see that he has, like, clover on his back.
 Alice:
 Like actual clover?
 Oliver:
@@ -1987,23 +1987,23 @@ Oh, no.
 Oliver:
 And Lili has her hands over her mouth, and is like,
 LILI:
-Oh, sweethear. Oh, no wonder they kicked you out and left you in the woods.
+Oh, sweetheart. Oh, no wonder they kicked you out and left you in the woods.
 JASMIN:
 Huh?
 LILI:
 Oh, no. Oh, no, no, no, no, no, no, no. Um oh, no.
 Oliver:
-And Windred stomps over to you and looks even the eye, and she's like,
+And Windred stomps over to you and looks Jasmin the eye, and she's like,
 WINDRED:
 Do you have your shit under control?
 JASMIN:
 Do-- what? What? I'm sorry--
 WINDRED:
-Because we can't-- I can't have you in my house if you're just going to turn into some bugbear shoe through the walls and all of my--
+Because we can't-- I can't have you in my house if you're just going to turn into some bugbear and punch through the walls and all of my--
 JASMIN:
 I don't know what a bugbear is?
 Oliver:
-And they like, look at the rest of you and are suddenly very on edge.
+And they like, look at the rest of you, and are suddenly very on edge.
 ZAN:
 Hey, would you calm down? Like, it's fine. I don't even think she can do it again today.
 WINDRED:
@@ -2043,9 +2043,9 @@ She, like, reaches towards your wristband.
 JASMIN:
 Oh, OK?
 Oliver:
-Yeah, she, like very gently, just turns your wrist over and looks at it and turns it the other way. Then she puts one hand on your wristband and her eyes glow pink for a second. And then she lets go and blinks and looks at you. And she says,
+Yeah, she very gently just turns your wrist over and looks at it and turns it the other way. Then she puts one hand on your wristband and her eyes glow pink for a second. And then she lets go and blinks and looks at you. And she says,
 NULA:
-I think this will keep it under control. Hmm. So. A long time ago, things were different than they are now. I don't know very much, um, you might be able to find a historian who can give you the full, accurate, low down. Most of what people know is passed on through stories and legends. But a long time ago, when magic first hit us, it changed people. And some of those people, when they changed, they didn't make it. Most of them even.
+I think this will keep it under control. Hmm. So. A long time ago, things were different than they are now. I don't know very much, um, you might be able to find a historian who can give you the full, accurate, low down. Most of what people know is passed on through stories and legends. But a long time ago, when magic first hit us, it changed people. And some of those people, when they changed, they didn't make it. Most of them, even.
 {1:27:43}
 NULA:
 And some people changed only a little bit and ended up with magic and with these powers, and some people didn't change it all. And for the most part, the only places you'll find people who are completely unchanged and "dull"-- Sorry, that's what we call people without magic. They live in these little Sapien enclaves, and they're very protective about those places. I'm guessing that's where you came from. And they did something to you that you can't remember... which is horrible. But... people that can change into animals are very feared out here. Okay?
@@ -2062,13 +2062,13 @@ OK.
 JASMIN:
 So I... I can't turn into a goblin?
 Oliver:
-And she smiles and she looks down at teacup who is purring contentedly in your arms and she says,
+And she smiles and she looks down at Teacup who is purring contentedly in your arms and she says,
 NULA:
-I know it's alluring toe want to, but you need to be very, very careful. Um, there are other people like you out there, somewhere. I met one once. But you can find them, and they can tell you a lot more than we can.
+I know it's alluring to want to, but you need to be very, very careful. There are other people like you out there, somewhere. I met one once. But you can find them, and they can tell you a lot more than we can.
 Oliver:
 And then she stands up when she kind of, uh, smooths down her tunic and looks at all of you and says,
 NULA:
-That was quite a lot for one day. Um, why don't we... Why don't we eat some stew and we can show you the garden and kind of have a nice Have a nice afternoon. While this all settles it.
+That was quite a lot for one day. Um, why don't we... Why don't we eat some stew and we can show you the garden and kind of have a nice... Have a nice afternoon. While this all settles in.
 JASMIN:
 I am just going to... eat outside, if that's OK. Um. Yeah.
 NULA:
@@ -2086,11 +2086,11 @@ Yes, Cody?
 CODY:
 I'm not scared of you.
 JASMIN:
-Um. That's really nice. I mean, maybe you should be.
+Um. That's really nice. I mean... maybe you should be?
 Alice:
 And then I go outside.
 CODY:
-Never.
+[Quietly] Never.
 === START ENDROLL ===
 Alan:
 You can find us on Twitter @Dice Disasters and we have more information about the show and the cast at DiceDisasters.com.
