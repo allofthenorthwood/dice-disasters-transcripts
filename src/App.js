@@ -3,7 +3,7 @@ import { StyleSheet, css } from "aphrodite";
 import Transcripts from "./Transcripts.js"
 import {colours} from './helpers.js';
 
-const DEBUG = true;
+const DEBUG = false;
 const EDITING_EP_NUM = 8;
 
 class App extends Component {
