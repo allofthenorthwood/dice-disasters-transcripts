@@ -3,8 +3,8 @@ import { StyleSheet, css } from "aphrodite";
 import Transcripts from "./Transcripts.js"
 import {colours} from './helpers.js';
 
-const DEBUG = false;
-const EDITING_EP_NUM = 0;
+const DEBUG = true;
+const EDITING_EP_NUM = 8;
 
 class App extends Component {
   state = {
@@ -12,8 +12,19 @@ class App extends Component {
     darkMode: false,
   }
 
+  componentDidMount() {
+    const url = document.referrer;
+    const queryString = '?' + url.split('?')[1];
+    const urlParams = new URLSearchParams(queryString);
+    const epNum = parseInt(urlParams.get('ep')) || 1;
+    this.setState({selectedEpisode: epNum});
+  }
+
   render() {
-    const episodes = [1, 2, 3, 4, 5, 6];
+
+
+
+    const episodes = [1, 2, 3, 4, 5, 6, 7, 8];
     const selectedEpisode = this.state.selectedEpisode;
     const darkMode = this.state.darkMode;
     return (
