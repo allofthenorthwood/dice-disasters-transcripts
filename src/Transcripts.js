@@ -6,6 +6,8 @@ import ep3 from './transcripts/ep3-transcript';
 import ep4 from './transcripts/ep4-transcript';
 import ep5 from './transcripts/ep5-transcript';
 import ep6 from './transcripts/ep6-transcript';
+import ep7 from './transcripts/ep7-transcript';
+import ep8 from './transcripts/ep8-transcript';
 import {colours} from './helpers.js';
 import emojiZan from './emoji/zan-mad.png';
 import emojiJasmin from './emoji/jasmin-blush.png';
@@ -174,6 +176,12 @@ class Transcripts extends Component {
     } else if (episode === 6) {
       transcript = ep6;
       title = "First Contact";
+    } else if (episode === 7) {
+      transcript = ep7;
+      title = "Getting Grounded";
+    } else if (episode === 8) {
+      transcript = ep8;
+      title = "How to Train Your Cody";
     } else {
       return null;
     }

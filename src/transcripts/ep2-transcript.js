@@ -309,7 +309,7 @@ Robot: Uh, I wandered over to like the middle of the wall area. And so... the mi
 Oliver: No, it's transparent.
 Robot: It's, like, transparent and you can see, like electricity going through it.
 Oliver: Right.
-Robot: Uh, Max is going to go toe like the connection between the solid and transparent part…
+Robot: Uh, Max is going to go to like the connection between the solid and transparent part…
 Oliver: Uh huh.
 Robot: And kind of like try to... surreptitiously, gingerly, poke the electrical part of the wall with one finger.
 Oliver: [Concerned noises.] All right?? UHhh
