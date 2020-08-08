@@ -1,13 +1,5 @@
-import React, { Component } from "react";
+import React, { Component, useEffect, useState } from "react";
 import { StyleSheet, css } from "aphrodite";
-import ep1 from './transcripts/ep1-transcript';
-import ep2 from './transcripts/ep2-transcript';
-import ep3 from './transcripts/ep3-transcript';
-import ep4 from './transcripts/ep4-transcript';
-import ep5 from './transcripts/ep5-transcript';
-import ep6 from './transcripts/ep6-transcript';
-import ep7 from './transcripts/ep7-transcript';
-import ep8 from './transcripts/ep8-transcript';
 import {colours} from './helpers.js';
 import emojiZan from './emoji/zan-mad.png';
 import emojiJasmin from './emoji/jasmin-blush.png';
@@ -152,36 +144,57 @@ class Transcript extends Component {
   }
 }
 
-class Transcripts extends Component {
-  render() {
-    const {episode, darkMode, debug} = this.props;
+let EPISODES = {
+  1: [() => import('./transcripts/ep1-transcript'), 'A Cold, White Floor'],
+  2: [() => import('./transcripts/ep2-transcript'), 'Continued Calibration'],
+  3: [() => import('./transcripts/ep3-transcript'), 'Breaking the Loop'],
+  4: [() => import('./transcripts/ep4-transcript'), 'Beards and Bards'],
+  5: [() => import('./transcripts/ep5-transcript'), 'Spooky Scary Skeletons'],
+  6: [() => import('./transcripts/ep6-transcript'), 'First Contact'],
+  7: [() => import('./transcripts/ep7-transcript'), 'Getting Grounded'],
+  8: [() => import('./transcripts/ep8-transcript'), 'How to Train Your Cody'],
+};
 
-    let episodes = {
-      1: [ep1, 'A Cold, White Floor'],
-      2: [ep2, 'Continued Calibration'],
-      3: [ep3, 'Breaking the Loop'],
-      4: [ep4, 'Beards and Bards'],
-      5: [ep5, 'Spooky Scary Skeletons'],
-      6: [ep6, 'First Contact'],
-      7: [ep7, 'Getting Grounded'],
-      8: [ep8, 'How to Train Your Cody'],
+function useTranscriptData(episode) {
+  let [getTranscript, title] = EPISODES[episode];
+  let [transcriptInfo, setTranscriptInfo] = useState(null);
+
+  useEffect(() => {
+    let stop = false;
+    getTranscript().then((transcript) => {
+      if (stop) {
+        return;
+      }
+      setTranscriptInfo([episode, transcript.default]);
+    });
+    return () => {
+      stop = true;
     };
-    if (!episodes[episode]) {
-      return null;
-    }
-    let [transcript, title] = episodes[episode];
+  }, [getTranscript, episode]);
 
-    return (
-      <div className={css(styles.container)}>
-        <Transcript
-          transcript={transcript}
-          darkMode={darkMode}
-          title={title}
-          episode={episode}
-          debug={debug}/>
-      </div>
-    );
+  if (!transcriptInfo || transcriptInfo[0] !== episode) {
+    return [title, null];
   }
+  return [title, transcriptInfo[1]];
+}
+
+
+function Transcripts({episode, darkMode, debug}) {
+  let [title, transcript] = useTranscriptData(episode);
+  if (!transcript) {
+    return null;
+  }
+
+  return (
+    <div className={css(styles.container)}>
+      <Transcript
+        transcript={transcript}
+        darkMode={darkMode}
+        title={title}
+        episode={episode}
+        debug={debug}/>
+    </div>
+  );
 }
 
 const borderColour = 'rgba(120, 120, 120, 0.2)';
