@@ -1,4 +1,4 @@
-const transcript = `Oliver: You wake up on a cold, white floor. You're back in that square room with your arms splayed out around you and your face pressed against the tiles. You feel groggy again, but that's-- that's about it. You feel better. You feel rested as you look around. You see the same people you woke up with last time and a single airlock door.
+export default `Oliver: You wake up on a cold, white floor. You're back in that square room with your arms splayed out around you and your face pressed against the tiles. You feel groggy again, but that's-- that's about it. You feel better. You feel rested as you look around. You see the same people you woke up with last time and a single airlock door.
 === INTRO THEME: “Elysia” by People Need Goals ===
 INTERCOM: BING BONG. Calibration is 75% complete. Please proceed to testing chamber B for continued calibration.
 Oliver: Max, Cody San and Jasmin, What do you do?
@@ -968,6 +968,4 @@ Our theme song is by People Need Goals, who you can find on Bandcamp or on Twitt
 We've posted the first few episodes of Dice Disasters all at once, so go ahead and load up the next one right now. And if you subscribe, I will love you eternally, forever.
 === END ENDROLL ===
 === POST CREDITS ===
-[No post credits.]`
-
-export default transcript;
+[No post credits.]`;

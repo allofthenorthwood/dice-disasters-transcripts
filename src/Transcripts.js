@@ -155,36 +155,21 @@ class Transcript extends Component {
 class Transcripts extends Component {
   render() {
     const {episode, darkMode, debug} = this.props;
-    let transcript = null;
-    let title = null;
 
-    if (episode === 1) {
-      transcript = ep1;
-      title = "A Cold, White Floor";
-    } else if (episode === 2) {
-      transcript = ep2;
-      title = "Continued Calibration";
-    } else if (episode === 3) {
-      transcript = ep3;
-      title = "Breaking the Loop";
-    } else if (episode === 4) {
-      transcript = ep4;
-      title = "Beards and Bards";
-    } else if (episode === 5) {
-      transcript = ep5;
-      title = "Spooky Scary Skeletons";
-    } else if (episode === 6) {
-      transcript = ep6;
-      title = "First Contact";
-    } else if (episode === 7) {
-      transcript = ep7;
-      title = "Getting Grounded";
-    } else if (episode === 8) {
-      transcript = ep8;
-      title = "How to Train Your Cody";
-    } else {
+    let episodes = {
+      1: [ep1, 'A Cold, White Floor'],
+      2: [ep2, 'Continued Calibration'],
+      3: [ep3, 'Breaking the Loop'],
+      4: [ep4, 'Beards and Bards'],
+      5: [ep5, 'Spooky Scary Skeletons'],
+      6: [ep6, 'First Contact'],
+      7: [ep7, 'Getting Grounded'],
+      8: [ep8, 'How to Train Your Cody'],
+    };
+    if (!episodes[episode]) {
       return null;
     }
+    let [transcript, title] = episodes[episode];
 
     return (
       <div className={css(styles.container)}>

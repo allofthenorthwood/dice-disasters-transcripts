@@ -1,5 +1,9 @@
-const transcript = `Oliver: You wake up on a cold, white floor. You’re face-down, with a cheek pressed to the large, smooth tiles, your limbs flung out haphazardly as though you were unceremoniously dumped here. A soreness creeps over your body as the grogginess of sleep fades, the kind of soreness that comes from a long, deep sleep. Longer than you intended. This is not where you went to bed last night. As far as you can remember, on December 1st, 2019, you crawled into your own bed, same as always. Things were normal. And now, they most certainly are not. What do you do?
+export default `Oliver: You wake up on a cold, white floor. You’re face-down, with a cheek pressed to the large, smooth tiles, your limbs flung out haphazardly as though you were unceremoniously dumped here. A soreness creeps over your body as the grogginess of sleep fades, the kind of soreness that comes from a long, deep sleep. Longer than you intended. This is not where you went to bed last night. As far as you can remember, on December 1st, 2019, you crawled into your own bed, same as always. Things were normal. And now, they most certainly are not. What do you do?
 === INTRO THEME: “Elysia” by People Need Goals ===
+
+
+
+
 
 
 
@@ -789,5 +793,4 @@ Oliver: Oooo we did it! Yay! Okay!
 [crosstalk, cast being excited]
 Talia: That was very cool.
 Alan: That was very cool.
-Oliver: Thank you. Yes, you all were so great. I loved it.`
-export default transcript;
+Oliver: Thank you. Yes, you all were so great. I loved it.`;
