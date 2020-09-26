@@ -9,6 +9,7 @@ import emojiErica from './emoji/erica-confused.png';
 import emojiNula from './emoji/nula.png';
 import emojiWindred from './emoji/windred.png';
 import emojiLili from './emoji/lili.png';
+import emojiRemy from './emoji/remy.png';
 
 const castIndex = {
   oliver: "DM",
@@ -30,6 +31,7 @@ const speakerEmoji = {
   nula: emojiNula,
   windred: emojiWindred,
   lili: emojiLili,
+  remy: emojiRemy
 };
 
 const speakerColours = {
