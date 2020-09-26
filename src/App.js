@@ -21,10 +21,7 @@ class App extends Component {
   }
 
   render() {
-
-
-
-    const episodes = [1, 2, 3, 4, 5, 6];
+    const episodes = [1, 2, 3, 4, 5, 6, 7, 8];
     const selectedEpisode = this.state.selectedEpisode;
     const darkMode = this.state.darkMode;
     return (

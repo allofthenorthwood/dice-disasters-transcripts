@@ -1,4 +1,4 @@
-const transcript = `Oliver:
+export default `Oliver:
 When we last left off, your group of wayward adventurers had escaped to the underground facility run by the robotic voice known as CASTR. Before leaving, Zan and Jasmin investigated the deepest parts of the basement, where you found a very large plant and an even larger glowing skeleton. Crawling to the surface through a series of maintenance tunnels, you found yet more mysteries. A vibrant jungle, and a message telling you to head south, following scraps of gray jumpsuit tied to tree branches. Following Zan's lead you hiked through the forest, stopping to make camp at a shallow cave at sunset. As the first light of dawn breaks through the canopy of trees, we see Erica seated by the fire. Max roused her a few hours ago to take the last watch. In the cave, Jasmin sleeps soundly, her hand resting on the bag containing CASTR's backup data. Pressed up against her back is Cody, sleeping with his arms wrapped tight around his yellow Jansport. Max and Zan are both splayed out on the moss, snoring quietly. Erica, as the world gets a little brighter with the light of dawn, you can see that a thick blanket of fog has settled in the forest. You hear rustling in the bushes as the forest begins to wake up. What do you do?
 === INTRO THEME: “Elysia” by People Need Goals ===
 Allison:
@@ -2108,6 +2108,4 @@ The next episode of Dice Disasters will be up in two weeks. If you enjoy the sho
 === POST CREDITS ===
 [Noise of dice tower clattering as it topples over]
 Robot:
-[Quietly] Dammit.`
-
-export default transcript;
+[Quietly] Dammit.`;

@@ -1,4 +1,4 @@
-const transcript = `Oliver: Max Zan, Jasmin and Cody -- the four of you are standing in a white tiled room. There are five enormous glass tubes that extend from the ceiling to a smooth metal base. Under each of the four empty tubes you found a meager sampling of your possessions. In the fifth tube lies subject number 2413. The control panel in front of her displays her name and personal information, with an undesignated class. As the last few remnants of that glowing blue energy dissipate from the tube, you hear a sharp hiss. The glass to begins to retract into the ceiling, giving you access to the platform where this young woman lays unconscious. She is wearing a gray jumpsuit, plain white shoes, and a metal band around each wrist. Her dark hair is tied back in a braid. What do you do?
+export default `Oliver: Max Zan, Jasmin and Cody -- the four of you are standing in a white tiled room. There are five enormous glass tubes that extend from the ceiling to a smooth metal base. Under each of the four empty tubes you found a meager sampling of your possessions. In the fifth tube lies subject number 2413. The control panel in front of her displays her name and personal information, with an undesignated class. As the last few remnants of that glowing blue energy dissipate from the tube, you hear a sharp hiss. The glass to begins to retract into the ceiling, giving you access to the platform where this young woman lays unconscious. She is wearing a gray jumpsuit, plain white shoes, and a metal band around each wrist. Her dark hair is tied back in a braid. What do you do?
 === INTRO THEME: “Elysia” by People Need Goals ===
 Talia: Can I check on her?
 Oliver: Yeah. What would you like to check for?
@@ -824,6 +824,4 @@ Our beautiful website was made by Allison Otting, who plays Erica.
 Dice Disasters is edited by Alan Brazzell, who plays Cody.
 Our cover art is made by  our DM, Oliver Northwood. Our theme song is by People Need Goals, who you can find on bandcamp, or on Twitter @peopleneedgoals. Their music is amazing and we love jamming out to our theme song.
 We've posted the first few episodes of Dice Disasters all at once. Please go ahead and listen to the next one, and subscribe! We appreciate you listening.
-=== END ENDROLL ===`
-
-export default transcript;
+=== END ENDROLL ===`;

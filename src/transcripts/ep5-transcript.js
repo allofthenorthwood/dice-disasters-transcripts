@@ -1,4 +1,4 @@
-const transcript = `Oliver:
+export default `Oliver:
 The silence and absolute darkness of the empty facility settles over the five of you. You're standing in the server room huddled together around Erica's dancing lights and the glow of Cody's jumpsuit. You're tired and you're hungry. Zan is slumped against one of the server racks, holding a hand to her throbbing head. The strange mechanical arm that called itself CASTR is now hanging stationery from the ceiling. Jasmin's hands tremble as she holds the black metal backup box, given to you by CASTR, along with a quest. Close the rift, bring this box to the sister facility, and she will send you home. In Max's notebook you have the coordinates CASTR gave you for that second facility. What do you do?
 === INTRO THEME: “Elysia” by People Need Goals ===
 Alice:
@@ -2060,6 +2060,4 @@ Talia:
 That's also a Canadian thing.
 Oliver:
 That's how we say it in Canada! Everything's a slut!
-[Laughter]`
-
-export default transcript;
+[Laughter]`;

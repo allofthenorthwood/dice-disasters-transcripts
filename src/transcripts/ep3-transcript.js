@@ -1,4 +1,4 @@
-const transcript = `Oliver: The four of you are standing in an airlock between Testing Chambers E and F. The space is about six feet by six feet, eight feet high. They are two square airlock doors, both ringed in red light. The doors look like metal elevator doors that open at a diagonal instead of vertically. After Jasmin noticed the sound of gas entering the chamber and pointed it out, Zan used her ethereal longbow to blast the grate clean off the ceiling. In the space above the ceiling tiles, you found the end of a small pipe omitting what you assume to be knockout gas. Max took his trusty metal dart and used it to plug the end of the pipe, buying you all some time to... do whatever it is you want to do. I believe Cody is sitting on the floor having little freakin time and you hear a chime.
+export default `Oliver: The four of you are standing in an airlock between Testing Chambers E and F. The space is about six feet by six feet, eight feet high. They are two square airlock doors, both ringed in red light. The doors look like metal elevator doors that open at a diagonal instead of vertically. After Jasmin noticed the sound of gas entering the chamber and pointed it out, Zan used her ethereal longbow to blast the grate clean off the ceiling. In the space above the ceiling tiles, you found the end of a small pipe omitting what you assume to be knockout gas. Max took his trusty metal dart and used it to plug the end of the pipe, buying you all some time to... do whatever it is you want to do. I believe Cody is sitting on the floor having little freakin time and you hear a chime.
 === INTRO THEME: “Elysia” by People Need Goals ===
 INTERCOM: DING DING. Calibration has been completed. Stress testing of the SPEL proprietary wrist bands must commence after subjects have been reset to full health. Please breathe in and out as normal to commence reset.
 OLIVER: So what do you do?
@@ -707,6 +707,4 @@ Our website was made by Allison Otting, who will be joining the podcast, actuall
 Dice Disasters is edited by Alan Brazzell, who plays Cody. Our cover art is made by our DM, Oliver Northwood.
 Our theme song is by People Need Goals, who you can find on band camp or on Twitter @peopleneedgoals. Go listen to their music. It's really good. I like it. You'll like it.
 We've posted the first few episodes of Dice Disasters all at once. So go ahead and load up the next one right now, but please subscribe, so you'll get new episodes as they're released.
-=== END ENDROLL ===`
-
-export default transcript;
+=== END ENDROLL ===`;
