@@ -10,6 +10,9 @@ import emojiNula from './emoji/nula.png';
 import emojiWindred from './emoji/windred.png';
 import emojiLili from './emoji/lili.png';
 import emojiRemy from './emoji/remy.png';
+import emojiCharlie from './emoji/charlie.png';
+import emojiAsh from './emoji/ash.png';
+import emojiJack from './emoji/jack.png';
 
 const castIndex = {
   oliver: "DM",
@@ -31,7 +34,10 @@ const speakerEmoji = {
   nula: emojiNula,
   windred: emojiWindred,
   lili: emojiLili,
-  remy: emojiRemy
+  remy: emojiRemy,
+  charlie: emojiCharlie,
+  jack: emojiJack,
+  ash: emojiAsh,
 };
 
 const speakerColours = {
