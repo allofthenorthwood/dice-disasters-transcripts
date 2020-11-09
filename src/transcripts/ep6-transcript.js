@@ -40,7 +40,7 @@ Sure. Yeah. Roll a perception check.
 Alan:
 That is a 9.
 Oliver:
-You don't see anything particularly interesting. As you wander off a little bit from where the camp fire is, into the mist, you see some animals scurrying around in the bushes, just movement. You look and then you can't quite get a glimpse of it.
+You don't see anything particularly interesting. As you wander off a little bit from where the campfire is, into the mist, you see some animals scurrying around in the bushes, just movement. You look and then you can't quite get a glimpse of it.
 Oliver:
 Then... through the mist, lumbering out of it, you see a big lump of mushrooms -- about the size of a small desk -- moving into the clearing. It's waddling forward on six short legs, which slap wetly against the dewey ground. Its back is covered in all these gray mushrooms streaked with violet.
 [DM Note: I was struggling to describe this creature, so I messaged everyone and asked "what are some things that are the size of a desk?" and Robot said "slightly smaller desk" and then "wait, fuck."]
@@ -73,7 +73,7 @@ What-- wait--
 Talia:
 Zan, just like, sits up and looks around.
 Oliver:
-Yeah, you see this weird lump of moving mushrooms and it's getting closer towards you, and it's going SHLRUP SHLURP SHLURP. As it approaches you, a long, slimy tendrils uncoils from its back and towards. Let's say Erica is closest and... [rolls] it misses! It kind of slams into the moss at your feet, leaving a trail of the purple goo.
+Yeah, you see this weird lump of moving mushrooms and it's getting closer towards you, and it's going SHLURP SHLURP SHLURP. As it approaches you, a long, slimy tendrils uncoils from its back and towards. Let's say Erica is closest and... [rolls] it misses! It kind of slams into the moss at your feet, leaving a trail of the purple goo.
 Oliver:
 Roll initiative!
 {5:10}
@@ -131,7 +131,7 @@ Well, I have bardic inspiration, right? I'm gonna sing to everybody in the camp,
 ERICA:
 [Singing] Rise and shine!
 Allison:
-And hope that everyone wakes up, and I'm going to give my point of inspiration to Cody. So, Cody, that's a D6 that you can add to any roll. And you can roll your check before hand.
+And hope that everyone wakes up, and I'm going to give my point of inspiration to Cody. So, Cody, that's a D6 that you can add to any roll. And you can roll your check beforehand.
 Oliver:
 Yeah, you can roll your d20 first and then decide if you want to add it.
 Alan:
@@ -165,7 +165,7 @@ All right, it slaps you and does 1 necrotic damage.
 ZAN:
 Ow! Gross.
 Oliver:
-Wow, This this whole battle is having some low numbers, huh?
+Wow. This, this whole battle is having some low numbers, huh?
 Talia:
 We're doing some exciting stuff, y'all.
 [Laughter]
@@ -354,7 +354,7 @@ Maybe. I think you're even closer than that. I think you like, run 15 feet, you'
 Robot:
 That is a 22.
 Oliver:
-Yeah, you you spear right through this thing, straight into the ground. It is now pinned there by this ethereal javelin. Roll damage.
+Yeah, you, you spear right through this thing, straight into the ground. It is now pinned there by this ethereal javelin. Roll damage.
 Robot:
 Seven.
 Oliver:
@@ -480,7 +480,7 @@ Make an investigation check.
 Alice:
 Okay. 18.
 Oliver:
-Yeah, you You try to think about how people tested if things were gold, and you, like, bring it up to your mouth like you're gonna bite it, and then you're like, "Wait... gross." And you, like, walk over to somebody with a sword and get them to kind of like, poke it the metal a little bit and yeah, it bends. It looks like it's matches up with being gold. It's very shiny and pretty
+Yeah, you, you try to think about how people tested if things were gold, and you, like, bring it up to your mouth like you're gonna bite it, and then you're like, "Wait... gross." And you, like, walk over to somebody with a sword and get them to kind of like, poke it the metal a little bit and yeah, it bends. It looks like it matches up with being gold. It's very shiny and pretty
 Talia:
 And now it's got a cool dent in it.
 Alice:
@@ -633,7 +633,7 @@ Max is doing fine with the hiking, and he's gonna try and stay like in the back-
 Oliver:
 Ah, my sweet boy. All right. Yeah, you're pretty much just walking with Jasmin at this point, then. Because she is decidedly at the rear.
 Talia:
-Zan is like pointing stuff out so that other people don't trip over it, but she's also, like, not slowing down for other people. I feel like occasionally they might have to be like, "Hey, whoa, calm down a little bit." This feels great. I'm just like, hiking.
+Zan is like pointing stuff out so that other people don't trip over it, but she's also, like, not slowing down for other people. I feel like occasionally they might have to be like, "Hey, whoa, calm down a little bit." This feels great. I'm just, like, hiking.
 Alice:
 That would probably have to be Max who's saying that because I don't think Jasmin would speak up.
 Allison:
@@ -647,7 +647,7 @@ Great. So we got our three at the back. Zan's just rushing forward. Cody's playi
 ZAN:
 Oh my god, there might be more people.
 Talia:
-Zan's just gonna like charge for the house, I think.
+Zan's just gonna, like, charge for the house, I think.
 Oliver:
 OK, great.
 Talia:
@@ -698,7 +698,7 @@ Nope!
 Talia:
 Zan goes and knocks on the door of the cottage.
 Oliver:
-You hear voice.
+You hear a voice.
 WINDRED:
 Coming, coming!
 Oliver:
@@ -730,7 +730,7 @@ What? What happened? Who--
 Talia:
 I knock again.
 ZAN:
-Come on. You're-- Come on. You're like the first person we've seen! We've like, just walked through the half of the goddamn forests from the weird old building thing. We don't know where we are. We don't-- Come on. We think we've been kidnapped... or something.
+Come on. You're-- Come on. You're like the first person we've seen! We've, like, just walked through the half of the goddamn forests from the weird old building thing. We don't know where we are. We don't-- Come on. We think we've been kidnapped... or something.
 CODY:
 Hey, Zan?
 Oliver:
@@ -801,7 +801,7 @@ Um, first off, I'm sorry. Uh. Oh. I'm Jasmin. We don't know your name. It's kind
 WINDRED:
 [Grumbling.] Windred, she/her.
 JASMIN:
-That's a lovely name. Um, since... uh... maybe we can we can trade? We found this necklace?
+That's a lovely name. Um, since... uh... maybe we can, we can trade? We found this necklace?
 WINDRED:
 Hmmm...
 Oliver:
@@ -833,7 +833,7 @@ Yeah. You've actually been following, like, pretty close to it, and it passes ri
 ZAN:
 Great. Let's go get some berries for this weird fetch quest.
 Oliver:
-All right. Yeah. Okay. You go to the other side of clearing, and that's where the the little stream river thing leads back into the woods.
+All right. Yeah. Okay. You go to the other side of clearing, and that's where the, the little stream river thing leads back into the woods.
 Alice:
 While we're walking, since this is pretty close by here, I imagine Jasmin is having an easier time now--
 Oliver:
@@ -896,7 +896,7 @@ Yeah.
 Alice:
 That would be an 11.
 Oliver:
-Alright, you run into the woods and you scoop up second Hat. You now have two Hat.
+Alright, you run into the woods and you scoop up Second Hat. You now have two Hat.
 Talia:
 It's like that video of that guy who can find moles under golf courses.
 [Laughter]
@@ -942,7 +942,7 @@ Yes you definitely can.
 ZAN:
 That's really creepy.
 Alan:
-Upon hearing, Zan exclaim that the rat was Jasmin, Cody's eyes got wider than they've ever been in his entire life. And upon seeing the thumbs up, Cody's mouth drops and he's just standing there agape.
+Upon hearing Zan exclaim that the rat was Jasmin, Cody's eyes got wider than they've ever been in his entire life. And upon seeing the thumbs up, Cody's mouth drops and he's just standing there agape.
 ZAN:
 Can you-- Can you change back?
 Alice:
@@ -1007,7 +1007,7 @@ It's been absolutely amazing just seeing everyone sharing the things they like a
 Alan:
 Yeah, I've really loved hearing when people give quotes that really make them laugh or, you know, they just really enjoyed, like, one of our first ones we got from someone was Matthew's -- listening on Spotify -- quoted your "we are not cookies!" line on Twitter. And I was like, "Oh, I love that line too!" I like seeing people interact. It's just great. We've had so many cool people-- Kayla, @thegreatsassby, shared some of her favorite moments.
 Alice:
-We have some fan art already as well.
+We have some fanart already as well.
 Alan:
 Yeah, I know. I saw Lulu doodled Max and his glowing jumpsuit and posted on Twitter.
 Alice:
@@ -1019,7 +1019,7 @@ Yeah, it's linked on the website isn't it? You can just click on it and then joi
 Alan:
 Yes, it is. You can just go to our main website and scroll down a little bit. And there's a big discord icon that Alison designed for us. Speaking of our website, where can people find us, Alice?
 Alice:
-Our website is DiceDisasters.com that is, "Dice Disasters" all together. No fancy shit going on there on. And that is, incidentally, also just the name of our twitter. And just as a combo breaker on instagram, we do have some fancy shit in that there is a period between Dice and Disasters just to shake it up. (Instagram
+Our website is DiceDisasters.com, that is, "Dice Disasters" all together. No fancy shit going on there on. And that is, incidentally, also just the name of our twitter. And just as a combo breaker on instagram, we do have some fancy shit in that there is a period between Dice and Disasters just to shake it up. (Instagram
 Alan:
 Yeah I guess you keep things interesting. Keep people guessing. You know, I don't know where we're going.
 Alice:
@@ -1027,7 +1027,7 @@ What will they do next?
 Alan:
 Yeah. No, but yeah, if you want to share things you love, or art you've made, feel free to tweet or post on instagram. You can join our discord and post there. But what would really help us out -- since we really want as many people to be able to be along for this adventure as possible -- if you would review our show on whatever podcast system you use, apple podcast, Google podcasts, whatever, that would be phenomenal. That really helps. You know, the all the crazy algorithms... share our podcast with other people so we can have more people join us. And Alice, if someone leaves a review or shares the show with #DiceDisasters, what might happen?
 Alice:
-Well, considering that this show is more than just us, and Oliver plays so many different people, we kind of need some names to name them. If you leave a review, that might be your name! Or I guess, some other name if you want. I don't know. Can can they suggest other names if they want? Can I-- If I want to share this, if I want to review it and I would want someone to be called Chicken Master 3000 with that work?
+Well, considering that this show is more than just us, and Oliver plays so many different people, we kind of need some names to name them. If you leave a review, that might be your name! Or I guess, some other name if you want. I don't know. Can, can they suggest other names if they want? Can I-- If I want to share this, if I want to review it and I would want someone to be called Chicken Master 3000 with that work?
 Alan:
 Um, that's a question that Oliver would have to answer, and they're not here, so...
 [DM Note: Hell yeah you can.]
@@ -1147,7 +1147,7 @@ Seriously, that's fair. Climb away, kid.
 ERICA:
 Yeah, go for it.
 Alan:
-Because Cody's a little more hesitant than that... can I do a nature check to see how sturdy Cody thinks the tree looks? And find a pathway up?
+Because Cody's a little more hesitant than that... Can I do a nature check to see how sturdy Cody thinks the tree looks? And find a pathway up?
 Oliver:
 Yes. Okay. Make a nature-- actually, just make an investigation check. It doesn't have to be nature.
 Alan:
@@ -1156,7 +1156,7 @@ Oliver:
 Yeah, he could definitely climb this tree. It looks great.
 [Laughter]
 Alan:
-Oh no. That was supposed to be my my smart roll. Um... okay.
+Oh no. That was supposed to be my, my smart roll. Um... okay.
 Oliver:
 You are confident you can climb this tree.
 Alan:
@@ -1201,7 +1201,7 @@ Talia:
 The squeakuel.
 [DM Note: Seriously, fuck you guys.]
 Oliver:
-You look kind of look to the sides... just like a lot of trees.
+You look, kind of look to the sides... just like a lot of trees.
 CODY:
 [Whispering] Hey... guys? Guys, there's-- there's a nest up here. Like a bird nest? With feathers? Like that one? Um... I don't wanna be up here anymore.
 ZAN:
@@ -1226,7 +1226,7 @@ Yeah. They curl up and hold each other. Hat kind of pets Jasmin's head a little 
 ZAN:
 I think there's a bit of berry somewhere in there.
 Oliver:
-Let's resolve. So Cody, is eight feet up, and he casts feather fall. Um, so make sure you mark down your spell slot there.
+Let's resolve. So, Cody is eight feet up, and he casts feather fall. Um, so make sure you mark down your spell slot there.
 Alan:
 I did.
 Oliver:
@@ -1346,7 +1346,7 @@ Another voice calls out from the forest,
 LILI:
 Oh, Nula, did I ever tell you the story of the goat with the two heads--
 Oliver:
-And behind this person, a towering giant of a woman steps out of the forest. She must be at least seven feet tall, with waves of white hair that cascade over her tanned, muscular shoulders. She's has a wide, flat nose, long, furry ears and flowers peppered throughout her hair. A pair of black horns jut out from the top of her head and curl down to her chin. She's wearing a green dress that ends at her knees, and you see that her legs are very furry, and instead of feet, she has hooves.
+And behind this person, a towering giant of a woman steps out of the forest. She must be at least seven feet tall, with waves of white hair that cascade over her tanned, muscular shoulders. She has a wide, flat nose, long, furry ears and flowers peppered throughout her hair. A pair of black horns jut out from the top of her head and curl down to her chin. She's wearing a green dress that ends at her knees, and you see that her legs are very furry, and instead of feet, she has hooves.
 Allison:
 Erica is very tired of walking and just goes up to them and is like,
 ERICA:
@@ -1470,13 +1470,13 @@ I mean, personally I vote for keeping this in.
 LILI:
 Well, you're covered in purple sludge. [Emphasizing] Sludge. I guess.
 ERICA:
-Yes, we ran into the moveshrooms. Uh, not a great time. Are there are a lot of them around here?
+Yes, we ran into the moveshrooms. Uh, not a great time. Are there, are a lot of them around here?
 LILI:
 I would say there's more than usual. Nula, would you say that there's more than usual?
 Oliver:
 And Nula just kind of like, looks at her, and Lili's like,
 LILI:
-Yeah, I'd say more than usual. We had we had a lot of rain in the past couple of months, you know, being spring. And then, um, I think when the water kind of like sits there in the in the mud and then the mushrooms come and they're like, "mmm, yeah! Yummy mud!" And then they grow and then they walk around and they're just.... They're so silly. I like them. They're very purple, but yes, all these stains...
+Yeah, I'd say more than usual. We had, we had a lot of rain in the past couple of months, you know, being spring. And then, um, I think when the water kind of like sits there in the in the mud and then the mushrooms come and they're like, "mmm, yeah! Yummy mud!" And then they grow and then they walk around and they're just.... They're so silly. I like them. They're very purple, but yes, all these stains...
 Oliver:
 She gets out a rag and starts wiping at your jumpsuit to like, clean it off.
 JASMIN:
@@ -1601,7 +1601,7 @@ Wait, What? What do you know about those... Sapien Strongholds?
 Oliver:
 Lili's like,
 LILI:
-Um... you know... a lot of heresay, you know... a lot of gossip. I mean, we don't get very much gossip out here. Um, we have met a couple people like you, a couple of... your people?
+Um... you know... a lot of hearsay, you know... a lot of gossip. I mean, we don't get very much gossip out here. Um, we have met a couple people like you, a couple of... your people?
 Oliver:
 She looks at Nula and she's like,
 LILI:
@@ -1613,7 +1613,7 @@ You know, un... gifted... folks without any ma.. gic.
 Alan:
 Cody's teacup is now lit up.
 LILI:
-Oh, you do have the gift! Oh, I knew it. I just I could smell it on all of you. Oh, that's wonderful. When did you learn to do that, young man?
+Oh, you do have the gift! Oh, I knew it. I just, I could smell it on all of you. Oh, that's wonderful. When did you learn to do that, young man?
 CODY:
 Um, they... they gave us magic at the big underground thing that we woke up in. And now I can do magic.
 LILI:
@@ -1649,7 +1649,7 @@ Allison:
 At this point, Erica has slowly trudged back into this room, like, absolutely swallowed up by this bathrobe. It is, like, embarrassed of her situation, is like hiding in a corner.
 [Laughter]
 Oliver:
-Great. Yes, it's not a very big room. There's not a lot of place to hide. But you kind of like sit on some throw pillows in the corner. I assume you like, tuck the robe over cause you're naked underneath.
+Great. Yes, it's not a very big room. There's not a lot of places to hide. But you kind of like sit on some throw pillows in the corner. I assume you like, tuck the robe over cause you're naked underneath.
 Allison:
 I sure do.
 ZAN:
@@ -1761,7 +1761,7 @@ He swallows real big, whatever it was he was chewing.
 Talia:
 Some good ASMR.
 CODY:
-Uh, well, we're we're following a trail, and it kind of came here and seems to run past... Um... Well, do you know who left that?
+Uh, well, we're, we're following a trail, and it kind of came here and seems to run past... Um... Well, do you know who left that?
 LILI:
 Yes. Oh, that was, um uh, What did he call himself, Nula?
 Oliver:
@@ -1817,7 +1817,7 @@ Uh, Cody, do you open your mouth at all?
 CODY:
 Uh um-- um, um!
 Oliver:
-Yeah, as you say "um" and open your moth she puts she puts the spoonful of liquid in there. It's bitter, and it burns for a second and then you swallow it.
+Yeah, as you say "um" and open your mouth she puts she puts the spoonful of liquid in there. It's bitter, and it burns for a second and then you swallow it.
 CODY:
 Blegh!
 ZAN:
@@ -1919,7 +1919,7 @@ Robot:
 Alice:
 Depends on how quickly Zan says her part.
 Oliver:
-She drops Teacup in your arms, Jasmin. And as the cat like rolls over, you can see that he has, like, clover on his back.
+She drops Teacup in your arms, Jasmin. And as the cat, like, rolls over, you can see that he has, like, clover on his back.
 Alice:
 Like actual clover?
 Oliver:
@@ -1949,7 +1949,7 @@ Okay, uh, be careful.
 Talia:
 And I like scoop Hat off my shoulder and sort of put her in her hands.
 LILI:
-Oh, what a sweet little thing, aren't you? Would you like a cookie.
+Oh, what a sweet little thing, aren't you? Would you like a cookie?
 Oliver:
 And she, like, takes one of the chips from the table and, like, offers it to Hat, who nibbles on it.
 LILI:
@@ -2078,7 +2078,7 @@ And she goes over to the stew, which is simmering at this point. It smells delic
 NULA:
 Come on. Let's go outside.
 Alan:
-As Jasmin goes to leave, Cody just grabs a hand or shirt sleeves or whatever he'd grab.
+As Jasmine goes to leave, Cody just grabs a hand or shirt sleeves or whatever he'd grab.
 CODY:
 Jasmin?
 JASMIN:

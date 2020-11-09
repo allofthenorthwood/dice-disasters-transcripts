@@ -155,6 +155,8 @@ let EPISODES = {
   6: [() => import('./transcripts/ep6-transcript'), 'First Contact'],
   7: [() => import('./transcripts/ep7-transcript'), 'Getting Grounded'],
   8: [() => import('./transcripts/ep8-transcript'), 'How to Train Your Cody'],
+  11: [() => import('./transcripts/ep11-transcript'), 'Web of Lies'],
+  12: [() => import('./transcripts/ep12-transcript'), 'Treasures and Trinkets'],
 };
 
 function useTranscriptData(episode) {
